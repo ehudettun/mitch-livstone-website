@@ -66,7 +66,15 @@
     }
     .hero-bg {
       position: absolute; inset: 0;
-      background: radial-gradient(ellipse 80% 60% at 65% 40%, #1a1408 0%, #080808 70%);
+      background-image: url('images/mitch-hero.jpg');
+      background-size: cover;
+      background-position: center 30%;
+      filter: brightness(.35) saturate(.6);
+    }
+    .hero-bg::after {
+      content: '';
+      position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(8,8,8,1) 0%, rgba(8,8,8,.4) 50%, rgba(8,8,8,.2) 100%);
     }
     .vinyl {
       position: absolute;
@@ -333,22 +341,7 @@
   <h2 class="reveal reveal-delay-1">Evolution</h2>
   <div class="album-layout">
     <div class="album-cover reveal">
-      <div class="album-cover-art">
-        <div class="cover-wave" aria-hidden="true">
-          <svg width="100%" height="100%" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-            <g stroke="#C9A84C" stroke-width="1.5" fill="none">
-              <path d="M0 200 Q100 80 200 200 T400 200" opacity=".5"/>
-              <path d="M0 200 Q100 120 200 200 T400 200" opacity=".3"/>
-              <path d="M0 200 Q100 160 200 200 T400 200" opacity=".2"/>
-              <circle cx="200" cy="200" r="80" opacity=".1"/>
-              <circle cx="200" cy="200" r="130" opacity=".06"/>
-              <circle cx="200" cy="200" r="180" opacity=".04"/>
-            </g>
-          </svg>
-        </div>
-        <div class="cover-title">Evolution</div>
-        <div class="cover-sub">ML Jazz Collaborative · 2025</div>
-      </div>
+      <img src="images/mitch-hero.jpg" alt="Evolution – ML Jazz Collaborative" style="width:100%;height:100%;object-fit:cover;display:block;" />
     </div>
     <div class="album-info reveal reveal-delay-2">
       <h3>The ML Jazz Collaborative</h3>
