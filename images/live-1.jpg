@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+    
+	<!--[if lt IE 9]>
+	<script src="https://yourarlington.com/wp-content/themes/fox/js/html5.js"></script>
+	<![endif]-->
+ 
+ <script type="text/javascript">
+  (function() {
+    /** CONFIGURATION START **/
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+    _sf_async_config.uid = 28210;
+    _sf_async_config.domain = 'yourarlington.com'; 
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = 'News'; 
+    _sf_async_config.authors = 'Your Arlington'; 
+    /** CONFIGURATION END **/
+    function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+    }
+    loadChartbeat();
+  })();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded',function(){
+        var fox56_async_css = document.querySelectorAll('link[media="fox56_async"],style[media="fox56_async"]')
+        if ( ! fox56_async_css ) {
+            return;
+        }
+        for( var link of fox56_async_css ) {
+            link.setAttribute('media','all')
+        }
+    });
+</script>
+<title>Page not found &#8211; Your Arlington</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Your Arlington &raquo; Feed" href="https://yourarlington.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Your Arlington &raquo; Comments Feed" href="https://yourarlington.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Your Arlington &raquo; iCal Feed" href="https://yourarlington.com/events/?ical=1" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://yourarlington.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6' media='all' />
+<link rel='stylesheet' id='arcada-labs-little-green-light-data-sync-css' href='https://yourarlington.com/wp-content/plugins/lgl-data-sync-plugin/public/css/arcada-labs-little-green-light-data-sync-public.css?ver=1.1.15' media='all' />
+<link rel='stylesheet' id='fox-google-fonts-css' href='https://fonts.googleapis.com/css?family=Source+Sans+3%3Aregular%2C700%2C500%2C600%2C900%7CLibre+Caslon+Text%3A700%2Cregular&#038;display=swap&#038;ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-1-css' href='https://yourarlington.com/wp-content/themes/fox/css56/icon56-loading.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-2-css' href='https://yourarlington.com/wp-content/themes/fox/css56/common.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-3-css' href='https://yourarlington.com/wp-content/themes/fox/css56/common-below.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-4-css' href='https://yourarlington.com/wp-content/themes/fox/css56/header-above.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-5-css' href='https://yourarlington.com/wp-content/themes/fox/css56/header-below.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-6-css' href='https://yourarlington.com/wp-content/themes/fox/css56/footer.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-7-css' href='https://yourarlington.com/wp-content/themes/fox/css56/widgets.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-8-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/common.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-9-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/grid.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-10-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/list.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-11-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/masonry.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-12-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/carousel.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-13-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/group.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-14-css' href='https://yourarlington.com/wp-content/themes/fox/css56/builder/others.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-15-css' href='https://yourarlington.com/wp-content/themes/fox/css56/misc.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='fox-style-16-css' href='https://yourarlington.com/wp-content/themes/fox/css56/lightbox.css?ver=6.4.1' media='all' />
+<style id="style56-inline-css">
+:root{--font-body:"Source Sans 3", sans-serif;}:root{--font-heading:"Libre Caslon Text", serif;}:root{--font-nav:"Source Sans 3", sans-serif;}
+/*# sourceURL=style56-inline-css */
+</style>
+<link rel='stylesheet' id='fox-child-style-css' href='https://yourarlington.com/wp-content/themes/fox-child-theme/style.css?ver=1.0' media='all' />
+<script id="jquery-core-js" src="https://yourarlington.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://yourarlington.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="arcada-labs-little-green-light-data-sync-js" src="https://yourarlington.com/wp-content/plugins/lgl-data-sync-plugin/public/js/arcada-labs-little-green-light-data-sync-public.js?ver=1.1.15"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=G-RKPK0HGZZZ" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["yourarlington.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-RKPK0HGZZZ");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://yourarlington.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://yourarlington.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0" />
+<meta name="generator" content="Site Kit by Google 1.180.0" /><script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('yourarlington.com') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+<meta name="et-api-version" content="v1"><meta name="et-api-origin" content="https://yourarlington.com"><link rel="https://theeventscalendar.com/" href="https://yourarlington.com/wp-json/tribe/tickets/v1/" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://yourarlington.com"><link rel="alternate" href="https://yourarlington.com/wp-json/tribe/events/v1/" />    <style id="css-preview">
+        .topbar56 .container .row { height : 32px ;} .topbar56 { border-bottom-width : 0px ;} .topbar56 { border-top-width : 0px ;} .topbar56__container { border-bottom-width : 0px ;} .topbar56__container { border-top-width : 0px ;} .main_header56 .container { padding-top : 14px ;} .main_header56 .container { padding-bottom : 14px ;} .main_header56 { background-size : cover ;} .main_header56 { background-position : center center ;} .main_header56 { background-attachment : scroll ;} .main_header56 { background-repeat : no-repeat ;} .main_header56 { border-bottom-width : 0px ;} .main_header56__container { border-bottom-width : 0px ;} .header_bottom56 .container .row { height : 32px ;} .header_bottom56 { border-bottom-width : 0px ;} .header_bottom56 { border-top-width : 0px ;} .header_bottom56__container { border-bottom-width : 0px ;} .header_bottom56__container { border-top-width : 0px ;} .header_desktop56 .logo56 img { width : 520px ;} .header_mobile56 .logo56 img { height : 80px ;} .site-description { margin-top : 0px ;} .header56__social li + li { margin-left : 6px ;} .header56__social a { width : 32px ;} .header56__social a { height : 32px ;} .header56__social a { font-size : 18px ;} .header56__social a img { width : 18px ;} .header56__social a { border-radius : 30px ;} .header56__social a { border-width : 0px ;} .search-btn img, .searchform button img { width : 30px ;} .header56__search .search-btn { font-size : 30px ;} .hamburger--type-icon { font-size : 18px ;} .hamburger--type-icon { width : 40px ;} .hamburger--type-icon { height : 40px ;} .hamburger--type-icon { color : #000000 ;} .hamburger--type-icon { background-color : #9B9B9B ;} .hamburger--type-icon { border-width : 0px ;} .hamburger--type-icon { border-radius : 0px ;} .hamburger--type-image { width : 40px ;} .mainnav ul.menu > li > a { padding-left : 12px ;} .mainnav ul.menu > li > a { padding-right : 12px ;} .mainnav ul.menu > li > a { line-height : 40px ;} .mainnav ul.menu > li > a:after { width : 90% ;} .mainnav ul.menu > li > a:after { left : calc((100% - 90%)/2) ;} .mainnav ul.menu > li > a:after { height : 2px ;} .mainnav .mk { font-size : 14px ;} .mainnav .mk { margin-left : 3px ;} .mainnav ul.sub-menu { width : 180px ;} .mega.column-2 > .sub-menu { width : calc(2*180px) ;} .mega.column-3 > .sub-menu { width : calc(3*180px) ;} .mainnav ul.sub-menu { background : #fff ;} .mainnav ul.sub-menu { padding-top : 0px ;} .mainnav ul.sub-menu { padding-bottom : 0px ;} .mainnav ul.sub-menu { padding-left : 0px ;} .mainnav ul.sub-menu { padding-right : 0px ;} .mainnav ul.sub-menu { border-radius : 0px ;} .mainnav ul.sub-menu { box-shadow : 0 5px 20px rgba(0,0,0,0.0) ;} .mainnav ul.menu > li.menu-item-has-children:after,.mainnav ul.menu > li.mega:after { border-bottom-color : #fff ;} .mainnav ul.menu > li.menu-item-has-children:before,.mainnav ul.menu > li.mega:before { border-bottom-color : #ccc ;} .mainnav ul.sub-menu a { padding-left : 12px ;} .mainnav ul.sub-menu a { padding-right : 12px ;} .mainnav ul.sub-menu a { line-height : 28px ;} .header_mobile56 .container .row, .header_mobile56__height { height : 84px ;} .header_mobile56 { background-color : #fff ;} .header_mobile56 { color : #000000 ;} .header_mobile56 { border-bottom-width : 0px ;} .header_mobile56 { border-top-width : 0px ;} .header_mobile56 { box-shadow : 0 4px 10px rgba(0,0,0,0.0) ;} .offcanvas56 { width : 320px ;} .offcanvas56 { background-size : cover ;} .offcanvas56 { background-position : center center ;} .offcanvas56 { background-attachment : scroll ;} .offcanvas56 { background-repeat : no-repeat ;} .offcanvas56 { padding-top : 16px ;} .offcanvas56 { padding-bottom : 16px ;} .offcanvas56 { padding-left : 16px ;} .offcanvas56 { padding-right : 16px ;} .offcanvas56__element + .offcanvas56__element { margin-top : 20px ;} .offcanvasnav56 ul.sub-menu, .offcanvasnav56 li + li { border-top-width : 1px ;} .offcanvasnav56 a, .offcanvasnav56 .mk { line-height : 46px ;} .offcanvasnav56 .mk { width : 46px ;} .offcanvasnav56 .mk { height : 46px ;} .offcanvasnav56 a { padding-left : 0px ;} .offcanvasnav56 a { padding-right : 0px ;} .masthead--sticky .masthead__wrapper.before-sticky { border-top-width : 0px ;} .masthead--sticky .masthead__wrapper.before-sticky { border-bottom-width : 0px ;} .masthead--sticky .masthead__wrapper.before-sticky { box-shadow : 0 3px 10px rgba(0,0,0,0.0) ;} .minimal-logo img { height : 24px ;} .builder56 { padding-top : 20px ;} .builder56 { padding-bottom : 30px ;} .builder56__section + .builder56__section { margin-top : 24px ;} .titlebar56__main { width : 600px ;} .titlebar56 .container { padding : 20px 0 ;} .titlebar56 { border-top-width : 0px ;} .titlebar56 { border-bottom-width : 0px ;} .titlebar56 .container { border-top-width : 0px ;} .titlebar56 .container { border-bottom-width : 1px ;} .toparea56 .blog56--grid { column-gap : 32px ;} .toparea56 .blog56--list { column-gap : 32px ;} .toparea56 .masonry-cell { padding-left : calc(32px/2) ;} .toparea56 .masonry-cell { padding-right : calc(32px/2) ;} .toparea56 .main-masonry { margin-left : calc(-32px/2) ;} .toparea56 .main-masonry { margin-right : calc(-32px/2) ;} .toparea56 .row56 { column-gap : 32px ;} .toparea56 .blog56__sep { column-gap : 32px ;} .toparea56 .blog56__sep__line { transform : translate( calc(32px/2), 0 ) ;} .toparea56 .carousel-cell { padding : 0 16px ;} .toparea56 .carousel56__container { margin : 0 -16px ;} .toparea56 .blog56--grid { row-gap : 32px ;} .toparea56 .blog56--list { row-gap : 32px ;} .toparea56 .masonry-cell { padding-top : 32px ;} .toparea56 .main-masonry { margin-top : -32px ;} .toparea56 .post56__sep__line { top : calc(-32px/2) ;} .toparea56 .blog56__sep__line { border-right-width : 0px ;} .toparea56 .post56__sep__line { border-top-width : 0px ;} .toparea56 .post56--list--thumb-percent .thumbnail56 { width : 40% ;} .toparea56 .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 40%) ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 { width : 400px ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 400px) ;} .toparea56 .post56--list--thumb-left .thumbnail56 { padding-right : 24px ;} .toparea56 > .container > .blog56--list .post56--list--thumb-right .thumbnail56 { padding-left : 24px ;} .pagination56 .page-numbers { border-width : 0px ;} .pagination56 .page-numbers { border-radius : 0px ;} .post56__padding { padding-bottom : 80% ;} .post56__height { height : 320px ;} .post56__overlay { background : rgba(0,0,0,.3) ;} .blog56--grid { column-gap : 32px ;} .blog56--list { column-gap : 32px ;} .masonry-cell { padding-left : calc(32px/2) ;} .masonry-cell { padding-right : calc(32px/2) ;} .main-masonry { margin-left : calc(-32px/2) ;} .main-masonry { margin-right : calc(-32px/2) ;} .row56 { column-gap : 32px ;} .blog56__sep { column-gap : 32px ;} .blog56__sep__line { transform : translate( calc(32px/2), 0 ) ;} .blog56--grid { row-gap : 32px ;} .blog56--list { row-gap : 32px ;} .masonry-cell { padding-top : 32px ;} .main-masonry { margin-top : -32px ;} .post56__sep__line { top : calc(-32px/2) ;} .component56 + .component56 { margin-top : 8px ;} .thumbnail56 { margin-bottom : 10px ;} .title56 { margin-bottom : 10px ;} .excerpt56 { margin-bottom : 10px ;} .blog56__sep__line { border-right-width : 0px ;} .post56__sep__line { border-top-width : 0px ;} .post56 { border-radius : 0px ;} .post56 { box-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} .post56 .post56__text { padding : 0px ;} .post56--list--thumb-percent .thumbnail56 { width : 20% ;} .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 20%) ;} .post56--list--thumb-pixel .thumbnail56 { width : 400px ;} .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 400px) ;} .post56--list--thumb-left .thumbnail56 { padding-right : 24px ;} .post56--list--thumb-right .thumbnail56 { padding-left : 24px ;} .thumbnail56 img, .thumbnail56__overlay { border-radius : 0px ;} .thumbnail56__overlay { background : #000 ;} .thumbnail56 .thumbnail56__hover-img { width : 40% ;} .title56 a:hover { text-decoration : none ;} .meta56__author a img { width : 32px ;} .single56 { padding-top : 20px ;} .single56__subtitle { max-width : 600px ;} :root { --narrow-width : 660px ;} .single56--link-4 .single56__content a { text-decoration : none ;} .single56--link-4 .single56__content a { text-decoration-thickness : 1px ;} .single56--link-4 .single56__content a:hover { text-decoration : none ;} .single56--link-4 .single56__content a:hover { text-decoration-thickness : 1px ;} .single56__heading { text-align : center ;} .single56--small-heading-normal .single56__heading { border-bottom-width : 0px ;} .single56--small-heading-normal .single56__heading { border-top-width : 0px ;} .authorbox56__avatar { width : 90px ;} .authorbox56__text { width : calc(100% - 90px) ;} .authorbox56__name { margin-bottom : 10px ;} .authorbox56 { border-top-width : 0px ;} .authorbox56 { border-right-width : 0px ;} .authorbox56 { border-bottom-width : 0px ;} .authorbox56 { border-left-width : 0px ;} .terms56 a { line-height : 24px ;} .terms56 a { border-radius : 0px ;} .terms56 a { border-width : 0px ;} .singlenav56__post__bg { padding-bottom : 60% ;} .singlenav56--1cols .singlenav56__post__bg { padding-bottom : calc(60%/1.8) ;} .progress56 { height : 5px ;} .share56--inline a { width : 32px ;} .share56--inline a { height : 32px ;} .share56--full a { height : 32px ;} .share56 a { font-size : 16px ;} .share56--inline a { border-radius : 30px ;} .share56--full a { border-radius : 0px ;} .share56--inline li + li { margin-left : 3px ;} .share56--full ul { column-gap : 3px ;} .sidedock56__heading { background : #000 ;} .footer_sidebar56 { background-size : cover ;} .footer_sidebar56 { background-position : center center ;} .footer_sidebar56 { background-attachment : scroll ;} .footer_sidebar56 { background-repeat : no-repeat ;} .footer_sidebar56 .container { padding : 30px 0px ;} .footer56__row .footer56__col { padding : 0px 20px ;} .footer_bottom56 { background-size : cover ;} .footer_bottom56 { background-position : center center ;} .footer_bottom56 { background-attachment : scroll ;} .footer_bottom56 { background-repeat : no-repeat ;} .footer_bottom56 .container { padding : 30px 0 ;} .footer56__social li + li { margin-left : 6px ;} .footer56__social a { width : 32px ;} .footer56__social a { height : 32px ;} .footer56__social a { font-size : 18px ;} .footer56__social a img { width : 18px ;} .footer56__social a { border-radius : 30px ;} .footer56__social a { border-width : 0px ;} .footer56__nav li + li { margin-left : 10px ;} .scrollup56--noimage { border-width : 1px ;} body { font-weight : 400 ;} body { font-size : 17px ;} body { line-height : 1.5 ;} h1, h2, h3, h4, h5, h6 { font-weight : 700 ;} h1, h2, h3, h4, h5, h6 { line-height : 1.2 ;} h2 { font-size : 33px ;} h3 { font-size : 26px ;} h4 { font-size : 20px ;} .text-logo { font-family : var(--font-heading) ;} .text-logo { font-weight : 700 ;} .text-logo { font-size : 64px ;} .text-logo { line-height : 1.2 ;} .text-logo { letter-spacing : 0px ;} .text-logo { text-transform : none ;} .slogan { font-family : var(--font-heading) ;} .slogan { font-weight : 400 ;} .slogan { font-size : 12px ;} .slogan { line-height : 1.2 ;} .slogan { letter-spacing : 6px ;} .slogan { text-transform : uppercase ;} .mainnav ul.menu > li > a { font-weight : 400 ;} .mainnav ul.menu > li > a { font-size : 14px ;} .mainnav ul.menu > li > a { letter-spacing : 0px ;} .mainnav ul.menu > li > a { text-transform : uppercase ;} .mainnav ul.sub-menu, .mainnav li.mega > .submenu-display-items .post-nav-item-title { font-family : var(--font-nav) ;} .mainnav ul.sub-menu, .mainnav li.mega > .submenu-display-items .post-nav-item-title { font-weight : 400 ;} .mainnav ul.sub-menu, .mainnav li.mega > .submenu-display-items .post-nav-item-title { font-size : 16px ;} .mainnav ul.sub-menu, .mainnav li.mega > .submenu-display-items .post-nav-item-title { letter-spacing : 0px ;} .mainnav ul.sub-menu, .mainnav li.mega > .submenu-display-items .post-nav-item-title { text-transform : none ;} .offcanvasnav56 { font-family : var(--font-nav) ;} .footer56__nav a { font-size : 11px ;} .footer56__nav a { letter-spacing : 1px ;} .footer56__nav a { text-transform : uppercase ;} .heading56, .section-heading h2, .fox-heading .heading-title-main { font-family : var(--font-heading) ;} .heading56, .section-heading h2, .fox-heading .heading-title-main { font-weight : 700 ;} .heading56, .section-heading h2, .fox-heading .heading-title-main { letter-spacing : 2px ;} .heading56, .section-heading h2, .fox-heading .heading-title-main { text-transform : uppercase ;} .titlebar56__title { font-family : var(--font-heading) ;} .titlebar56__title { font-size : 64px ;} .titlebar56__description { font-family : var(--font-body) ;} .title56 { font-family : var(--font-heading) ;} .title56 { font-size : 26px ;} .excerpt56 { font-family : var(--font-body) ;} .excerpt56 { font-weight : 400 ;} .excerpt56 { line-height : 1.3 ;} .excerpt56 { letter-spacing : 0px ;} .excerpt56 { text-transform : none ;} .meta56 { font-family : var(--font-body) ;} .meta56 { font-weight : 400 ;} .meta56 { font-size : 13px ;} .meta56 { letter-spacing : 0px ;} .meta56 { text-transform : none ;} .meta56__category--fancy { font-family : var(--font-heading) ;} .meta56__category--fancy { font-weight : 600 ;} .meta56__category--fancy { font-size : 14px ;} .meta56__category--fancy { letter-spacing : 0px ;} .meta56__category--fancy { text-transform : uppercase ;} .pagination56 { font-family : var(--font-heading) ;} .single56__title { font-family : var(--font-heading) ;} .single56__title { font-size : 48px ;} .single56__subtitle { font-family : var(--font-body) ;} .single56__subtitle { font-weight : 400 ;} .single56__subtitle { font-size : 20px ;} .single56__subtitle { letter-spacing : 0px ;} .single56__subtitle { text-transform : none ;} .single56__post_content { font-family : var(--font-body) ;} .single56__post_content { font-weight : 400 ;} .single56__post_content { line-height : 1.5 ;} .single56__post_content { letter-spacing : 0px ;} .single56__post_content { text-transform : none ;} .single56__heading { font-family : var(--font-heading) ;} .single56__heading { font-weight : 400 ;} .single56__heading { font-size : 1.5em ;} .single56__heading { line-height : 1.3 ;} .single56__heading { letter-spacing : 0px ;} .single56__heading { text-transform : none ;} .authorbox56__name { font-weight : 700 ;} .authorbox56__name { font-size : 1.3em ;} .authorbox56__description { line-height : 1.4 ;} .widget-title, .secondary56 .wp-block-heading { font-family : var(--font-heading) ;} .widget-title, .secondary56 .wp-block-heading { font-weight : 400 ;} .widget-title, .secondary56 .wp-block-heading { font-size : 12px ;} .widget-title, .secondary56 .wp-block-heading { letter-spacing : 2px ;} .widget-title, .secondary56 .wp-block-heading { text-transform : uppercase ;} .widget_archive, .widget_nav_menu, .widget_meta, .widget_recent_entries, .widget_categories, .widget_product_categories, .widget_recent_comments { font-family : var(--font-heading) ;} .widget_archive, .widget_nav_menu, .widget_meta, .widget_recent_entries, .widget_categories, .widget_product_categories, .widget_recent_comments { font-weight : 400 ;} .widget_archive, .widget_nav_menu, .widget_meta, .widget_recent_entries, .widget_categories, .widget_product_categories, .widget_recent_comments { font-size : 16px ;} .widget_archive, .widget_nav_menu, .widget_meta, .widget_recent_entries, .widget_categories, .widget_product_categories, .widget_recent_comments { text-transform : none ;} button,input[type="submit"],.btn56 { font-family : var(--font-body) ;} button,input[type="submit"],.btn56 { font-weight : 700 ;} button,input[type="submit"],.btn56 { font-size : 15px ;} button,input[type="submit"],.btn56 { letter-spacing : 1px ;} button,input[type="submit"],.btn56 { text-transform : uppercase ;} input[type="text"], input[type="number"], input[type="email"], input[type="url"], input[type="date"], input[type="password"], textarea, .fox-input { font-family : var(--font-body) ;} input[type="text"], input[type="number"], input[type="email"], input[type="url"], input[type="date"], input[type="password"], textarea, .fox-input { font-weight : 400 ;} input[type="text"], input[type="number"], input[type="email"], input[type="url"], input[type="date"], input[type="password"], textarea, .fox-input { font-size : 16px ;} input[type="text"], input[type="number"], input[type="email"], input[type="url"], input[type="date"], input[type="password"], textarea, .fox-input { letter-spacing : 0px ;} blockquote { font-family : var(--font-body) ;} blockquote { font-size : 20px ;} blockquote { letter-spacing : 0px ;} blockquote { text-transform : none ;} .wi-dropcap,.enable-dropcap .dropcap-content > p:first-of-type:first-letter, p.has-drop-cap:not(:focus):first-letter { font-family : var(--font-body) ;} .wi-dropcap,.enable-dropcap .dropcap-content > p:first-of-type:first-letter, p.has-drop-cap:not(:focus):first-letter { font-weight : 700 ;} .wi-dropcap,.enable-dropcap .dropcap-content > p:first-of-type:first-letter, p.has-drop-cap:not(:focus):first-letter { text-transform : uppercase ;} .wp-caption-text, .single_thumbnail56 figcaption, .thumbnail56 figcaption, .wp-block-image figcaption, .blocks-gallery-caption { font-family : var(--font-body) ;} .wp-caption-text, .single_thumbnail56 figcaption, .thumbnail56 figcaption, .wp-block-image figcaption, .blocks-gallery-caption { font-size : 14px ;} .wp-caption-text, .single_thumbnail56 figcaption, .thumbnail56 figcaption, .wp-block-image figcaption, .blocks-gallery-caption { text-transform : none ;} body { color : #000000 ;} :root { --content-width : 1080px ;} body { background-size : cover ;} body { background-position : center center ;} body { background-attachment : scroll ;} body { background-repeat : no-repeat ;} body { border-top-width : 0px ;} body { border-right-width : 0px ;} body { border-bottom-width : 0px ;} body { border-left-width : 0px ;} body.layout-boxed #wi-all { background-size : cover ;} body.layout-boxed #wi-all { background-position : center center ;} body.layout-boxed #wi-all { background-attachment : scroll ;} body.layout-boxed #wi-all { background-repeat : no-repeat ;} body.layout-boxed #wi-all { border-top-width : 0px ;} body.layout-boxed #wi-all { border-right-width : 0px ;} body.layout-boxed #wi-all { border-bottom-width : 0px ;} body.layout-boxed #wi-all { border-left-width : 0px ;} :root { --button-border-radius : 6px ;} :root { --button-height : 32px ;} :root { --button-padding : 28px ;} :root { --button-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} :root { --button-hover-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} :root { --input-border-width : 1px ;} :root { --input-border-radius : 1px ;} :root { --input-height : 32px ;} :root { --input-placeholder-opacity : 0.6 ;} :root { --input-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} :root { --input-focus-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} blockquote { padding : 1.25em 1em 1.25em 1em ;} blockquote { border-top-width : 0px ;} blockquote { border-right-width : 0px ;} blockquote { border-bottom-width : 0px ;} blockquote { border-left-width : 0px ;} .widget + .widget { border-top-width : 0px ;} .widget-title, .secondary56 .wp-block-heading { text-align : left ;} .widget-title, .secondary56 .wp-block-heading { border-top-width : 0px ;} .widget-title, .secondary56 .wp-block-heading { border-right-width : 0px ;} .widget-title, .secondary56 .wp-block-heading { border-bottom-width : 0px ;} .widget-title, .secondary56 .wp-block-heading { border-left-width : 0px ;} .widget-title, .secondary56 .wp-block-heading { padding-top : 0px ;} .widget-title, .secondary56 .wp-block-heading { padding-right : 0px ;} .widget-title, .secondary56 .wp-block-heading { padding-bottom : 0px ;} .widget-title, .secondary56 .wp-block-heading { padding-left : 0px ;} :root { --list-widget-border-style : none ;} :root { --list-widget-spacing : 6px ;} :root { --darkmode-bg : #000 ;} .widget56--id--6 .secondary56__sep { border-left-width : 1px ;} .widget56--id--1 .row56__col--big .title56 { font-size : 32px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 { width : 100px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 100px) ;} .widget56--id--1 .row56__col--medium .title56 { font-weight : 900 ;} .widget56--id--1 .row56__col--medium .title56 { font-size : 18px ;} .widget56--id--1 .row56__col--medium .title56 { line-height : 1.3 ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 { width : 120px ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 120px) ;} .widget56--id--1 .post56__padding { padding-bottom : 80% ;} .widget56--id--1 .post56__height { height : 320px ;} .widget56--id--1 .post56__overlay { background : rgba(0,0,0,.3) ;} .widget56--id--1 .post56 { border-radius : 0px ;} .widget56--id--1 .post56 { box-shadow : 2px 8px 20px rgba(0,0,0,0.0) ;} .widget56--id--1 .post56__text { padding : 0px ;} .widget56--id--1.row56 { column-gap : 32px ;} .widget56--id--1 .blog56__sep { column-gap : 32px ;} .widget56--id--1 .blog56__sep__line { transform : translate( calc(32px/2), 0 ) ;} .widget56--id--1 .blog56--grid { row-gap : 32px ;} .widget56--id--1 .post56__sep__line { top : calc(-32px/2) ;} .widget56--id--1 .blog56--list { row-gap : 32px ;} .widget56--id--1 .component56 + .component56 { margin-top : 8px ;} .widget56--id--1 .thumbnail56 { margin-bottom : 10px ;} .widget56--id--1 .title56 { margin-bottom : 10px ;} .widget56--id--1 .excerpt56 { margin-bottom : 10px ;} .widget56--id--1 .blog56__sep__line { border-right-width : 1px ;} .widget56--id--1 .post56__sep__line { border-top-width : 0px ;} .widget56--id--1 .thumbnail56 img { border-radius : 0px ;} .widget56--id--1 .thumbnail56 .thumbnail56__hover-img { width : 40% ;} .widget56--id--1 .meta56__author img { width : 32px ;} .widget56--id--10 .secondary56__sep { border-left-width : 0px ;} .widget56--id--12 .separator56__line { border-top-style : solid ;} .widget56--id--12 .separator56__line { border-top-color : #c0c1c0 ;} .widget56--id--12 .separator56__line { border-top-width : 1px ;} .widget56--id--12 { justify-content : left ;} .widget56--id--12 { padding-block : 30px ;} .widget56--id--11.banner56 { width : 200px ;}
+@media(max-width:1024px) { .minimal-header { height : 84px ;} .builder56 { padding-top : 0px ;} .builder56 { padding-bottom : 20px ;} .builder56__section + .builder56__section { margin-top : 20px ;} .titlebar56 .container { padding : 10px 0 ;} .toparea56 .blog56--grid { column-gap : 20px ;} .toparea56 .blog56--list { column-gap : 20px ;} .toparea56 .masonry-cell { padding-left : calc(20px/2) ;} .toparea56 .masonry-cell { padding-right : calc(20px/2) ;} .toparea56 .main-masonry { margin-left : calc(-20px/2) ;} .toparea56 .main-masonry { margin-right : calc(-20px/2) ;} .toparea56 .row56 { column-gap : 20px ;} .toparea56 .blog56__sep { column-gap : 20px ;} .toparea56 .blog56__sep__line { transform : translate( calc(20px/2), 0 ) ;} .toparea56 .carousel-cell { padding : 0 8px ;} .toparea56 .carousel56__container { margin : 0 -8px ;} .toparea56 .blog56--grid { row-gap : 20px ;} .toparea56 .blog56--list { row-gap : 20px ;} .toparea56 .masonry-cell { padding-top : 20px ;} .toparea56 .main-masonry { margin-top : -20px ;} .toparea56 .post56__sep__line { top : calc(-20px/2) ;} .toparea56 .post56--list--thumb-percent .thumbnail56 { width : 40% ;} .toparea56 .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 40%) ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 { width : 300px ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 300px) ;} .toparea56 .post56--list--thumb-left .thumbnail56 { padding-right : 16px ;} .toparea56 > .container > .blog56--list .post56--list--thumb-right .thumbnail56 { padding-left : 16px ;} .post56__padding { padding-bottom : 80% ;} .post56__height { height : 320px ;} .blog56--grid { column-gap : 20px ;} .blog56--list { column-gap : 20px ;} .masonry-cell { padding-left : calc(20px/2) ;} .masonry-cell { padding-right : calc(20px/2) ;} .main-masonry { margin-left : calc(-20px/2) ;} .main-masonry { margin-right : calc(-20px/2) ;} .row56 { column-gap : 20px ;} .blog56__sep { column-gap : 20px ;} .blog56__sep__line { transform : translate( calc(20px/2), 0 ) ;} .blog56--grid { row-gap : 20px ;} .blog56--list { row-gap : 20px ;} .masonry-cell { padding-top : 20px ;} .main-masonry { margin-top : -20px ;} .post56__sep__line { top : calc(-20px/2) ;} .component56 + .component56 { margin-top : 8px ;} .thumbnail56 { margin-bottom : 8px ;} .title56 { margin-bottom : 8px ;} .excerpt56 { margin-bottom : 8px ;} .post56 .post56__text { padding : 0px ;} .post56--list--thumb-percent .thumbnail56 { width : 25% ;} .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 25%) ;} .post56--list--thumb-pixel .thumbnail56 { width : 300px ;} .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 300px) ;} .post56--list--thumb-left .thumbnail56 { padding-right : 16px ;} .post56--list--thumb-right .thumbnail56 { padding-left : 16px ;} .meta56__author a img { width : 28px ;} .single56 { padding-top : 0px ;} .footer_sidebar56 .container { padding : 20px 0px ;} .footer56__row .footer56__col { padding : 0px 20px ;} .footer_bottom56 .container { padding : 20px 0 ;} .footer56__nav li + li { margin-left : 8px ;} .text-logo { font-size : 40px ;} .single56__title { font-size : 36px ;} .single56__subtitle { font-size : 17px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 { width : 100px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 100px) ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 { width : 120px ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 120px) ;} .widget56--id--1 .post56__padding { padding-bottom : 80% ;} .widget56--id--1 .post56__height { height : 320px ;} .widget56--id--1 .post56__text { padding : 0px ;} .widget56--id--1.row56 { column-gap : 20px ;} .widget56--id--1 .blog56__sep { column-gap : 20px ;} .widget56--id--1 .blog56__sep__line { transform : translate( calc(20px/2), 0 ) ;} .widget56--id--1 .blog56--grid { row-gap : 20px ;} .widget56--id--1 .post56__sep__line { top : calc(-20px/2) ;} .widget56--id--1 .blog56--list { row-gap : 20px ;} .widget56--id--1 .component56 + .component56 { margin-top : 8px ;} .widget56--id--1 .thumbnail56 { margin-bottom : 8px ;} .widget56--id--1 .title56 { margin-bottom : 8px ;} .widget56--id--1 .excerpt56 { margin-bottom : 8px ;} .widget56--id--1 .meta56__author img { width : 28px ;} .widget56--id--12 { padding-block : 20px ;} }
+@media (min-width:1024px) { body.layout-boxed #wi-all { margin-top : 0px ;} body.layout-boxed #wi-all { margin-bottom : 0px ;} body.layout-boxed #wi-all { padding-top : 0px ;} body.layout-boxed #wi-all { padding-bottom : 0px ;} }
+@media only screen and (min-width: 840px) { .secondary56 { width : 265px ;} .hassidebar > .container--main > .primary56 { width : calc(100% - 265px) ;} .widget56--id--6 .secondary56 { width : 200px ;} .widget56--id--6.widget56__row--hassidebar > .primary56 { width : calc(100% - 200px) ;} .widget56--id--10 .secondary56 { width : 260px ;} .widget56--id--10.widget56__row--hassidebar > .primary56 { width : calc(100% - 260px) ;} }
+@media(max-width:600px) { .offcanvas56 { top : 84px ;} .builder56 { padding-top : 0px ;} .builder56 { padding-bottom : 10px ;} .builder56__section + .builder56__section { margin-top : 16px ;} .titlebar56 .container { padding : 10px 0 ;} .toparea56 .blog56--grid { column-gap : 10px ;} .toparea56 .blog56--list { column-gap : 10px ;} .toparea56 .masonry-cell { padding-left : calc(10px/2) ;} .toparea56 .masonry-cell { padding-right : calc(10px/2) ;} .toparea56 .main-masonry { margin-left : calc(-10px/2) ;} .toparea56 .main-masonry { margin-right : calc(-10px/2) ;} .toparea56 .row56 { column-gap : 10px ;} .toparea56 .blog56__sep { column-gap : 10px ;} .toparea56 .blog56__sep__line { transform : translate( calc(10px/2), 0 ) ;} .toparea56 .carousel-cell { padding : 0 8px ;} .toparea56 .carousel56__container { margin : 0 -8px ;} .toparea56 .blog56--grid { row-gap : 10px ;} .toparea56 .blog56--list { row-gap : 10px ;} .toparea56 .masonry-cell { padding-top : 10px ;} .toparea56 .main-masonry { margin-top : -10px ;} .toparea56 .post56__sep__line { top : calc(-10px/2) ;} .toparea56 .post56--list--thumb-percent .thumbnail56 { width : 30% ;} .toparea56 .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 30%) ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 { width : 100px ;} .toparea56 .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 100px) ;} .toparea56 .post56--list--thumb-left .thumbnail56 { padding-right : 8px ;} .toparea56 > .container > .blog56--list .post56--list--thumb-right .thumbnail56 { padding-left : 8px ;} .post56__padding { padding-bottom : 80% ;} .post56__height { height : 320px ;} .blog56--grid { column-gap : 10px ;} .blog56--list { column-gap : 10px ;} .masonry-cell { padding-left : calc(10px/2) ;} .masonry-cell { padding-right : calc(10px/2) ;} .main-masonry { margin-left : calc(-10px/2) ;} .main-masonry { margin-right : calc(-10px/2) ;} .row56 { column-gap : 10px ;} .blog56__sep { column-gap : 10px ;} .blog56__sep__line { transform : translate( calc(10px/2), 0 ) ;} .blog56--grid { row-gap : 10px ;} .blog56--list { row-gap : 10px ;} .masonry-cell { padding-top : 10px ;} .main-masonry { margin-top : -10px ;} .post56__sep__line { top : calc(-10px/2) ;} .component56 + .component56 { margin-top : 6px ;} .thumbnail56 { margin-bottom : 6px ;} .title56 { margin-bottom : 6px ;} .excerpt56 { margin-bottom : 6px ;} .post56 .post56__text { padding : 0px ;} .post56--list--thumb-percent .thumbnail56 { width : 30% ;} .post56--list--thumb-percent .thumbnail56 + .post56__text { width : calc(100% - 30%) ;} .post56--list--thumb-pixel .thumbnail56 { width : 100px ;} .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 100px) ;} .post56--list--thumb-left .thumbnail56 { padding-right : 8px ;} .post56--list--thumb-right .thumbnail56 { padding-left : 8px ;} .meta56__author a img { width : 24px ;} .single56 { padding-top : 0px ;} .authorbox56__avatar { width : 54px ;} .authorbox56__text { width : calc(100% - 54px) ;} .footer_sidebar56 .container { padding : 10px 0px ;} .footer56__row .footer56__col { padding : 0px 20px ;} .footer_bottom56 .container { padding : 10px 0 ;} .footer56__nav li + li { margin-left : 6px ;} body { font-size : 16px ;} h2 { font-size : 24px ;} h3 { font-size : 20px ;} h4 { font-size : 16px ;} .text-logo { font-size : 32px ;} .titlebar56__title { font-size : 36px ;} .title56 { font-size : 20px ;} .meta56 { font-size : 11px ;} .meta56__category--fancy { font-size : 12px ;} .single56__title { font-size : 28px ;} .single56__subtitle { font-size : 16px ;} .single56__heading { font-size : 1em ;} blockquote { font-size : 16px ;} .wp-caption-text, .single_thumbnail56 figcaption, .thumbnail56 figcaption, .wp-block-image figcaption, .blocks-gallery-caption { font-size : 12px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 { width : 90px ;} .widget56--id--1.row56__col--medium .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 90px) ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 { width : 90px ;} .widget56--id--1.row56__col--small .post56--list--thumb-pixel .thumbnail56 + .post56__text { width : calc(100% - 90px) ;} .widget56--id--1 .post56__padding { padding-bottom : 80% ;} .widget56--id--1 .post56__height { height : 320px ;} .widget56--id--1 .post56__text { padding : 0px ;} .widget56--id--1.row56 { column-gap : 10px ;} .widget56--id--1 .blog56__sep { column-gap : 10px ;} .widget56--id--1 .blog56__sep__line { transform : translate( calc(10px/2), 0 ) ;} .widget56--id--1 .blog56--grid { row-gap : 10px ;} .widget56--id--1 .row56__col + .row56__col { margin-top : 10px ;} .widget56--id--1 .post56__sep__line { top : calc(-10px/2) ;} .widget56--id--1 .blog56--list { row-gap : 10px ;} .widget56--id--1 .component56 + .component56 { margin-top : 6px ;} .widget56--id--1 .thumbnail56 { margin-bottom : 6px ;} .widget56--id--1 .title56 { margin-bottom : 6px ;} .widget56--id--1 .excerpt56 { margin-bottom : 6px ;} .widget56--id--1 .meta56__author img { width : 24px ;} .widget56--id--12 { padding-block : 20px ;} }            </style>
+    <link rel="icon" href="https://yourarlington.com/wp-content/uploads/2025/09/web-app-manifest-512x512-1-60x60.png" sizes="32x32" />
+<link rel="icon" href="https://yourarlington.com/wp-content/uploads/2025/09/web-app-manifest-512x512-1-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://yourarlington.com/wp-content/uploads/2025/09/web-app-manifest-512x512-1-200x200.png" />
+<meta name="msapplication-TileImage" content="https://yourarlington.com/wp-content/uploads/2025/09/web-app-manifest-512x512-1-300x300.png" />
+<style id="wp-custom-css">
+.header56__html2, .header56__social {
+	visibility: hidden;
+}
+
+#tribe-row-delete-dialog {
+	visibility: hidden;
+}
+
+.postid-51768 {
+	overflow: visible!important;
+}
+</style>
+    
+</head>
+
+<body class="error404 wp-theme-fox wp-child-theme-fox-child-theme tribe-no-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring style--tagcloud-1 style--blockquote- the-fox tribe-theme-fox" itemscope itemtype="https://schema.org/WebPage">
+    
+    <script>
+function readCookie(name) {
+    var nameEQ = encodeURIComponent(name) + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ')
+            c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) === 0)
+            return decodeURIComponent(c.substring(nameEQ.length, c.length));
+    }
+    return null;
+}
+let cookie_prefix = 'fox_1_'
+let user_darkmode = readCookie( cookie_prefix + 'user_darkmode' );
+if ( 'dark' == user_darkmode ) {
+    document.body.classList.add('darkmode');
+} else if ( 'light' == user_darkmode ) {
+    document.body.classList.remove('darkmode');
+}
+</script>
+    
+    <div id="wi-all" class="fox-outer-wrapper fox-all wi-all">
+
+        <div class="masthead header_desktop56 masthead--sticky">
+    <div class="masthead__wrapper">
+                <div id="topbar56" class="topbar56 header56__section">
+                <div class="container topbar56__container header56__section__container stretch--content textskin--light">
+        <div class="row">
+                        <div class="col topbar56__part header56__part header56__part--left col-0-1">
+                            </div>
+                        <div class="col topbar56__part header56__part header56__part--center col-1-1">
+                        <div class="header56__element header56__html1">
+            <div class="menu-top-menu-container"><ul id="menu-top-menu" class=""><li id="menu-item-10820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10820"><a href="https://yourarlington.com/free-newsletter/">Free Newsletter</a></li>
+<li id="menu-item-35742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35742"><a href="https://yourarlington.com/send-news/">Send news</a></li>
+<li id="menu-item-10758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10758"><a href="https://yourarlington.com/about-us/">About</a></li>
+<li id="menu-item-59947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59947"><a href="https://yourarlington.com/place-public-notices/">Public Notices</a></li>
+<li id="menu-item-10817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10817"><a href="https://yourarlington.com/advertise/">Advertise</a></li>
+<li id="menu-item-10821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10821"><a href="https://yourarlington.com/our-sponsors/">Support YA</a></li>
+<li id="menu-item-10819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10819"><a href="https://yourarlington.com/contact-us/">Contact us</a></li>
+</ul></div>        </div>
+                    </div>
+                        <div class="col topbar56__part header56__part header56__part--right col-0-1">
+                            </div>
+                    </div>
+    </div>
+            </div>
+        <div id="header56" class="main_header56 header56__section">
+                <div class="container main_header56__container header56__section__container stretch--content textskin--light">
+        <div class="row">
+                        <div class="col main_header56__part header56__part header56__part--left col-1-5">
+                        <div class="header56__element header56__html2">
+            <h3 class="widget-social-title">Stay Connected</h3>        </div>
+                <div class="header56__element header56__social">
+            <div class="fox56-social-list"><ul><li class="social__item item--facebook ic-icon"><a href="https://facebook.com/bs.yourarlington" target="_blank" role="tooltip" aria-label="Facebook" data-microtip-position="bottom"><i class="ic56-facebook"></i></a></li>
+<li class="social__item item--instagram ic-icon"><a href="https://instagram.com/iamwithemes/" target="_blank" role="tooltip" aria-label="Instagram" data-microtip-position="bottom"><i class="ic56-instagram"></i></a></li>
+<li class="social__item item--threads ic-icon"><a href="https://threads.com" target="_blank" role="tooltip" aria-label="Threads" data-microtip-position="bottom"><i class="ic56-threads"></i></a></li>
+<li class="social__item item--linkedin ic-icon"><a href="https://linkedin.com" target="_blank" role="tooltip" aria-label="Linkedin" data-microtip-position="bottom"><i class="ic56-linkedin2"></i></a></li></ul></div>        </div>
+                    </div>
+                        <div class="col main_header56__part header56__part header56__part--center col-3-5">
+                        <div class="header56__element header56__logo">
+            
+    <div class="fox-logo-container logo56">
+        
+        <div class="wi-logo-main fox-logo logo-type-image">
+            <a href="https://yourarlington.com/" rel="home">
+                <img width="1040" height="240" src="https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b.png" class="main-img-logo" alt="Your Arlington logo large" loading="eager" decoding="async" fetchpriority="high" srcset="https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b.png 1040w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-300x69.png 300w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-1024x236.png 1024w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-768x177.png 768w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-160x37.png 160w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-60x14.png 60w" sizes="(max-width: 1040px) 100vw, 1040px" />            </a>
+        </div>
+
+        
+    </div><!-- .fox-logo-container -->
+
+            </div>
+                    </div>
+                        <div class="col main_header56__part header56__part header56__part--right col-1-5">
+                        <div class="header56__element header56__button1">
+            <style type="text/css">#button-id-6a35f7fe90aa2-1{border-radius:4px}</style>
+<div class="button56 button56--inline">
+    <a target="_self" href="/donate/" class="btn56 header-donate-button btn56--primary btn56--tiny" id="button-id-6a35f7fe90aa2-1"><span class="btn-main-text">Donate</span></a>
+</div>
+
+        </div>
+                <div class="header56__element header56__search">
+            
+    <span class="search-btn-classic search-btn">
+        <img width="60" height="50" src="https://yourarlington.com/wp-content/uploads/2024/10/search-icon-60.png" class="attachment-medium size-medium" alt="Search icon" decoding="async" />    </span>
+
+    <div class="search-wrapper-classic">
+        <div class="searchform">
+    
+    <form role="search" method="get" action="https://yourarlington.com/" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="form">
+        
+        <input type="text" name="s" class="s search-field" value="" placeholder="Type &amp; hit enter" />
+        
+        <button class="submit" role="button" title="Go">
+            <img width="60" height="50" src="https://yourarlington.com/wp-content/uploads/2024/10/search-icon-60.png" class="attachment-medium size-medium" alt="Search icon" decoding="async" />        </button>
+        
+    </form><!-- .form -->
+    
+</div><!-- .searchform -->    </div><!-- .search-wrapper-classic -->
+            </div>
+                    </div>
+                    </div>
+    </div>
+            </div>
+        <div id="header_bottom56" class="header_bottom56 header56__section">
+                <div class="container header_bottom56__container header56__section__container stretch--content textskin--light">
+        <div class="row">
+                        <div class="col header_bottom56__part header56__part header56__part--left col-0-1">
+                            </div>
+                        <div class="col header_bottom56__part header56__part header56__part--center col-1-1">
+                        <div class="header56__element header56__nav">
+            <nav class="mainnav nav--dropdown-indicator-angle-down nav--dropdown-shadow-none nav--active-none" role="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-48781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48781"><a href="https://yourarlington.com/"><span>Home</span><u class="mk"></u></a></li>
+<li id="menu-item-48751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48751"><a href="https://yourarlington.com/category/news/"><span>News</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-48752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48752"><a href="https://yourarlington.com/category/twnews/"><span>Community news</span><u class="mk"></u></a></li>
+	<li id="menu-item-48753" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48753"><a href="https://yourarlington.com/category/agendas/"><span>Agendas and minutes</span><u class="mk"></u></a></li>
+	<li id="menu-item-48754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48754"><a href="https://yourarlington.com/category/news/police/"><span>Police &#038; Fire</span><u class="mk"></u></a></li>
+	<li id="menu-item-48755" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48755"><a href="https://yourarlington.com/category/news/skul/health/"><span>Health</span><u class="mk"></u></a></li>
+	<li id="menu-item-48756" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48756"><a href="https://yourarlington.com/category/environment/"><span>Environment</span><u class="mk"></u></a></li>
+	<li id="menu-item-48757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48757"><a href="https://yourarlington.com/category/features/people/"><span>People</span><u class="mk"></u></a></li>
+	<li id="menu-item-62019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62019"><a href="https://yourarlington.column.us/search"><span>Public Notices</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li id="menu-item-48760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48760"><a href="https://yourarlington.com/category/business/"><span>Business</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-48761" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48761"><a href="https://yourarlington.com/category/business/business-news/"><span>Business news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li id="menu-item-48763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48763"><a href="https://yourarlington.com/category/arts/"><span>Arts</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-48764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48764"><a href="https://yourarlington.com/category/business/restaurants/"><span>Restaurant news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li id="menu-item-48750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48750"><a href="https://yourarlington.com/category/news/schools-news/"><span>Schools</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-48758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48758"><a href="https://yourarlington.com/category/news/schools-news/"><span>School news</span><u class="mk"></u></a></li>
+	<li id="menu-item-48759" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48759"><a href="https://yourarlington.com/category/sports/sport-news/"><span>Sports news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li id="menu-item-48770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48770"><a href="https://yourarlington.com/category/commentary/"><span>Opinion</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-48771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48771"><a href="https://yourarlington.com/category/yourview/letters/"><span>Letters to the editor</span><u class="mk"></u></a></li>
+	<li id="menu-item-35766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35766"><a href="https://yourarlington.com/submit-an-opinion-piece/"><span>Submit an opinion piece</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li id="menu-item-10823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10823"><a href="https://yourarlington.com/category/obituaries/"><span>Obituaries</span><u class="mk"></u></a></li>
+<li id="menu-item-10822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10822"><a href="https://yourarlington.com/events/"><span>Events</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li id="menu-item-51796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51796"><a href="https://yourarlington.com/events/community/add"><span>Add an event</span><u class="mk"></u></a></li>
+</ul>
+</li>
+</ul></div></nav>        </div>
+                    </div>
+                        <div class="col header_bottom56__part header56__part header56__part--right col-0-1">
+                            </div>
+                    </div>
+    </div>
+            </div>
+            </div>
+    
+</div>
+        <div id="header_mobile56" class="header_mobile56 header56__section header_mobile56--sticky">
+            <div class="container header_mobile56__container header56__section__container">
+        <div class="row">
+                        <div class="col header_mobile56__part header56__part header56__part--left col-1-6">
+                        <div class="header56__element header56__hamburger">
+            <span class="hamburger hamburger--type-icon"><i class="ic56-menu1 icon-menu"></i><i class="ic56-x icon-close"></i></span>        </div>
+                    </div>
+                        <div class="col header_mobile56__part header56__part header56__part--center col-2-3">
+                        <div class="header56__element header56__logo">
+            
+    <div class="fox-logo-container logo56">
+        
+        <div class="wi-logo-main fox-logo logo-type-image">
+            <a href="https://yourarlington.com/" rel="home">
+                <img width="1040" height="240" src="https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b.png" class="main-img-logo" alt="Your Arlington logo large" loading="eager" decoding="async" srcset="https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b.png 1040w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-300x69.png 300w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-1024x236.png 1024w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-768x177.png 768w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-160x37.png 160w, https://yourarlington.com/wp-content/uploads/2024/10/header-logo-1040b-60x14.png 60w" sizes="(max-width: 1040px) 100vw, 1040px" />            </a>
+        </div>
+
+        
+    </div><!-- .fox-logo-container -->
+
+            </div>
+                    </div>
+                        <div class="col header_mobile56__part header56__part header56__part--right col-1-6">
+                        <div class="header56__element header56__cart">
+                    </div>
+                    </div>
+                    </div>
+    </div>
+        </div>
+    <div class="header_mobile56__height"></div>
+        
+        <div id="wi-main" class="wi-main fox-main">
+
+        <div class="archive56__titlebar">    <div class="titlebar56 align-center">
+        <div class="container">
+            <div class="titlebar56__main">
+                                <h1 class="titlebar56__title">Page Not Found</h1>
+                                                            </div>
+        </div>
+            </div>
+    </div>
+        <div class="page404__content">
+        <div class="container">
+
+            
+                        <div class="searchform">
+    
+    <form role="search" method="get" action="https://yourarlington.com/" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="form">
+        
+        <input type="text" name="s" class="s search-field" value="" placeholder="Type &amp; hit enter" />
+        
+        <button class="submit" role="button" title="Go">
+            <img width="60" height="50" src="https://yourarlington.com/wp-content/uploads/2024/10/search-icon-60.png" class="attachment-medium size-medium" alt="Search icon" decoding="async" />        </button>
+        
+    </form><!-- .form -->
+    
+</div><!-- .searchform -->                        
+        </div>
+    </div>
+
+
+    </div><!-- #wi-main -->
+
+    
+    <footer id="wi-footer" class="site-footer" itemscope itemtype="https://schema.org/WPFooter">
+        
+                
+                
+            <div id="footer-sidebar-placement">
+        
+<div class="footer-widgets footer-sidebar footer_sidebar56 footer-sidebar-1-1-1-1 skin--light stretch--content valign--stretch">
+
+    <div class="container">
+
+        <div class="row footer56__row">
+
+            
+            <aside class="widget-area footer56__col col-1-4">
+
+                <div class="footer__col__inner"><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="/wp-content/uploads/2024/10/header-logo-480.png" style="width: 240px; max-width: 100%; height: auto;" alt="Your Arlington logo for site footer">
+<p style="font-size: 15px; line-height: 130%; margin-top: 6px;">Your Arlington began in 2006 as an experiment in community journalism dedicated to reporting news about Arlington, Mass., and the Arlington-related views of its residents. That experiment continues, but it is not unique — it is part of a growing nationwide movement once called “citizen journalism.”
+</p></div></div></div>
+                                <div class="footer56__col__sep"></div>
+                
+            </aside><!-- .footer-col -->
+
+            
+            <aside class="widget-area footer56__col col-1-4">
+
+                <div class="footer__col__inner"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><table class="footer-nav-table" style="font-size: 14px;">
+	<tr>
+	<td style="vertical-align: top;"><span class="red" style="font-weight: 700;">LINKS</span>
+<br><a href="/">HOME</a>    
+<br><a href="/contact-us">CONTACT</a>
+<br><a href="/advertise">ADVERTISE</a>  
+<br><a href="/community">COMMUNITY</a>
+<br><a href="/our-sponsors">SPONSORS</a>
+<br><a href="/about-us">ABOUT</a>
+<br><a href="/policies/">POLICIES</a>
+		</td>
+	<td style="vertical-align: top;"><span class="red" style="font-weight: 700;">ARTICLES</span>
+<br><a href="/category/news/">NEWS</a>    
+<br><a href="/category/business/">BUSINESS</a>
+<br><a href="/category/arts/">ARTS</a> 
+<br><a href="/category/sports/">SPORTS</a>  
+<br><a href="/category/views/">OPINION</a>
+<br><a href="/category/obituaries/">OBITUARIES</a>
+<br><a href="/calendar">CALENDAR</a></td></tr>
+</table></div></div></div>
+                                <div class="footer56__col__sep"></div>
+                
+            </aside><!-- .footer-col -->
+
+            
+            <aside class="widget-area footer56__col col-1-4">
+
+                <div class="footer__col__inner"><div id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p style="text-align: center">
+	<button class="primary"><a href="/donate/" class="button">DONATE</a></button>
+</p>
+<div style="text-align: center;"><p style="font-size: 13px; line-height: 110%; font-weight: 400; margin: 10px 0 8px 0;">Your Arlington is a proud member of
+</p><a href="https://inn.org/about/network/" target="_blank"><img src="/wp-content/uploads/2024/10/INN-logo.svg" style="width: 180px;max-width: 100%; margin: 0 auto;"></a></div>
+</div></div></div>
+                                <div class="footer56__col__sep"></div>
+                
+            </aside><!-- .footer-col -->
+
+            
+            <aside class="widget-area footer56__col col-1-4">
+
+                <div class="footer__col__inner"><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p>
+	<b>Sign Up for Our Free Newsletter</b>
+</p>
+<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.12.5 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-25851" method="post" data-id="25851" data-name="Sign up" ><div class="mc4wp-form-fields"><p>
+	<label for="email">Email address* 
+		<input type="email" id="email" name="EMAIL" placeholder="Your email address" required>
+</label>
+</p>
+
+
+
+<p>
+  <input type="submit" value="Subscribe">
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1781921790" /><input type="hidden" name="_mc4wp_form_id" value="25851" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div></div></div>
+                                <div class="footer56__col__sep"></div>
+                
+            </aside><!-- .footer-col -->
+
+            
+        </div><!-- .footer-widgets-inner -->
+
+    </div><!-- .container -->
+
+</div><!-- #footer-widgets -->
+
+    </div>
+            <div id="footer-bottom-placement">
+    
+<div role="contentinfo" class="footer_bottom56 footer-bottom classic-footer-bottom stretch--full skin--light classic-footer-bottom-stack footer_bottom--stack">
+
+    <div class="container">
+
+                        <div class="footer56__element footer56__element--copyright footer56__copyright">
+                    <p>A.J. Liebling: “Freedom of the press belongs to those who own one.” | Copyright © 2006–<span class="tody">2026</span>. All rights reserved.</p>
+                </div>
+            
+    </div><!-- .container -->
+
+</div><!-- #footer-bottom -->
+    </div>
+
+    </footer>
+
+
+    <div class="handborder handborder--top"></div>
+    <div class="handborder handborder--right"></div>
+    <div class="handborder handborder--bottom"></div>
+    <div class="handborder handborder--left"></div>
+</div><!-- #wi-all -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/fox-child-theme/*","/wp-content/themes/fox/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><div class="offcanvas56"><div class="offcanvas56__container"><div class="offcanvas56__element offcanvas56__search"><div class="searchform">
+    
+    <form role="search" method="get" action="https://yourarlington.com/" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="form">
+        
+        <input type="text" name="s" class="s search-field" value="" placeholder="Type &amp; hit enter" />
+        
+        <button class="submit" role="button" title="Go">
+            <img width="60" height="50" src="https://yourarlington.com/wp-content/uploads/2024/10/search-icon-60.png" class="attachment-medium size-medium" alt="Search icon" decoding="async" loading="lazy" />        </button>
+        
+    </form><!-- .form -->
+    
+</div><!-- .searchform --></div>
+<div class="offcanvas56__element offcanvas56-mainnav"><nav class="offcanvasnav56 nav--cols-1" role="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="menu"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48781"><a href="https://yourarlington.com/"><span>Home</span><u class="mk"></u></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48751"><a href="https://yourarlington.com/category/news/"><span>News</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48752"><a href="https://yourarlington.com/category/twnews/"><span>Community news</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48753"><a href="https://yourarlington.com/category/agendas/"><span>Agendas and minutes</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48754"><a href="https://yourarlington.com/category/news/police/"><span>Police &#038; Fire</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48755"><a href="https://yourarlington.com/category/news/skul/health/"><span>Health</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48756"><a href="https://yourarlington.com/category/environment/"><span>Environment</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48757"><a href="https://yourarlington.com/category/features/people/"><span>People</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62019"><a href="https://yourarlington.column.us/search"><span>Public Notices</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48760"><a href="https://yourarlington.com/category/business/"><span>Business</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48761"><a href="https://yourarlington.com/category/business/business-news/"><span>Business news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48763"><a href="https://yourarlington.com/category/arts/"><span>Arts</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48764"><a href="https://yourarlington.com/category/business/restaurants/"><span>Restaurant news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48750"><a href="https://yourarlington.com/category/news/schools-news/"><span>Schools</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48758"><a href="https://yourarlington.com/category/news/schools-news/"><span>School news</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48759"><a href="https://yourarlington.com/category/sports/sport-news/"><span>Sports news</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48770"><a href="https://yourarlington.com/category/commentary/"><span>Opinion</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48771"><a href="https://yourarlington.com/category/yourview/letters/"><span>Letters to the editor</span><u class="mk"></u></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35766"><a href="https://yourarlington.com/submit-an-opinion-piece/"><span>Submit an opinion piece</span><u class="mk"></u></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10823"><a href="https://yourarlington.com/category/obituaries/"><span>Obituaries</span><u class="mk"></u></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10822"><a href="https://yourarlington.com/events/"><span>Events</span><u class="mk"></u></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51796"><a href="https://yourarlington.com/events/community/add"><span>Add an event</span><u class="mk"></u></a></li>
+</ul>
+</li>
+</ul></div></nav></div>
+<div class="offcanvas56__element offcanvas56__social fox56-social-list"><ul><li class="social__item item--facebook ic-icon"><a href="https://facebook.com/bs.yourarlington" target="_blank" role="tooltip" aria-label="Facebook" data-microtip-position="top"><i class="ic56-facebook"></i></a></li>
+<li class="social__item item--instagram ic-icon"><a href="https://instagram.com/iamwithemes/" target="_blank" role="tooltip" aria-label="Instagram" data-microtip-position="top"><i class="ic56-instagram"></i></a></li>
+<li class="social__item item--threads ic-icon"><a href="https://threads.com" target="_blank" role="tooltip" aria-label="Threads" data-microtip-position="top"><i class="ic56-threads"></i></a></li>
+<li class="social__item item--linkedin ic-icon"><a href="https://linkedin.com" target="_blank" role="tooltip" aria-label="Linkedin" data-microtip-position="top"><i class="ic56-linkedin2"></i></a></li></ul></div>
+<div class="offcanvas56__element offcanvas56__sidebar"></div></div></div><div class="offcanvas56__overlay"></div>
+<div class="scrollup__placeholder">
+    <div class="scrollup56 scrollup56--text scrollup56--noimage scrollup56--square">
+    <span class="go">Go to</span><span class="top">Top</span></div>
+    </div>
+<span data-fox_version="6.4.1" data-demo=""></span>
+        <span fox56_is_new_customer="1"></span>
+    <span fox56_has_activated_6=""></span>
+    <span fox56_has_framework=""></span>
+    <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><script id="tec-user-agent-js" src="https://yourarlington.com/wp-content/plugins/event-tickets/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df"></script>
+<script id="wp-hooks-js" src="https://yourarlington.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://yourarlington.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://yourarlington.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/yourarlington.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://yourarlington.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6"></script>
+<script id="wi-magnific-popup-js" src="https://yourarlington.com/wp-content/themes/fox/js56/jquery.magnific-popup.js?ver=1.1.0"></script>
+<script id="wi-fitvids-js" src="https://yourarlington.com/wp-content/themes/fox/js56/jquery.fitvids.js?ver=1781921790"></script>
+<script id="wi-main56-js-extra">
+var WITHEMES56 = {"l10n":{"prev":"Previous","next":"Next","loading":"Loading.."},"ajaxurl":"https://yourarlington.com/wp-admin/admin-ajax.php","siteurl":"https://yourarlington.com","site_id":"1","enable_lightbox":"1"};
+//# sourceURL=wi-main56-js-extra
+</script>
+<script id="wi-main56-js" src="https://yourarlington.com/wp-content/themes/fox/js56/main.js?ver=6.4.1"></script>
+<script id="googlesitekit-events-provider-contact-form-7-js" src="https://yourarlington.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-9a37b777e8016c4536f8.js" defer></script>
+<script id="mc4wp-forms-api-js" defer src="https://yourarlington.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.12.5"></script>
+<script id="googlesitekit-events-provider-mailchimp-js" src="https://yourarlington.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-47067936a5783ec12f78.js" defer></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://yourarlington.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://yourarlington.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
