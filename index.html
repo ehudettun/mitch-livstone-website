@@ -172,6 +172,40 @@
     .stat-num { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--gold); font-weight: 700; }
     .stat-label { font-size: .72rem; letter-spacing: .15em; text-transform: uppercase; color: var(--text-muted); margin-top: .2rem; }
 
+    /* PRESS */
+    #press {
+      background: var(--surface);
+      text-align: center;
+      padding: 7rem 4rem;
+    }
+    .press-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.2rem, 5vw, 4.5rem);
+      font-style: italic;
+      color: var(--text);
+      line-height: 1.2;
+      max-width: 820px;
+      margin: 2rem auto 1.5rem;
+    }
+    .press-attribution {
+      font-size: .75rem; letter-spacing: .3em; text-transform: uppercase;
+      color: var(--gold); margin-bottom: 5rem;
+    }
+    .press-clips { display: flex; gap: 3rem; justify-content: center; flex-wrap: wrap; }
+    .press-clip {
+      max-width: 260px; text-align: center;
+      border-top: 1px solid var(--surface2); padding-top: 1.5rem;
+    }
+    .press-clip-text {
+      font-family: 'Playfair Display', serif; font-style: italic;
+      color: var(--text-muted); font-size: .95rem; line-height: 1.6;
+      margin-bottom: .8rem;
+    }
+    .press-clip-source {
+      font-size: .65rem; letter-spacing: .2em; text-transform: uppercase;
+      color: var(--gold-dim);
+    }
+
     /* ALBUM */
     #album { background: var(--black); }
     .album-cover-banner {
@@ -221,16 +255,12 @@
     .live-photo-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: auto auto;
       gap: 4px;
       margin-top: 3rem;
       margin-bottom: 3rem;
     }
-    .live-photo-grid .photo-wide {
-      grid-column: span 2;
-    }
     .live-photo-grid img {
-      width: 100%; height: 260px;
+      width: 100%; height: 280px;
       object-fit: cover; object-position: center;
       display: block;
       transition: filter .4s;
@@ -279,11 +309,11 @@
       .about-photo-col { padding-bottom: 2rem; }
       .about-photo-accent { right: -.5rem; }
       .style-grid { grid-template-columns: 1fr; }
-      .live-photo-grid { grid-template-columns: repeat(2, 1fr); }
-      .live-photo-grid .photo-wide { grid-column: span 2; }
-      .live-photo-grid img { height: 180px; }
+      .live-photo-grid { grid-template-columns: 1fr; }
+      .live-photo-grid img { height: 220px; }
       footer { flex-direction: column; gap: 1rem; text-align: center; }
       .vinyl { right: -20vw; width: 90vw; height: 90vw; opacity: .4; }
+      .press-clips { flex-direction: column; align-items: center; }
     }
   </style>
 </head>
@@ -331,10 +361,10 @@
   </div>
 
   <div class="hero-content">
-    <div class="hero-eyebrow">Guitarist &amp; Composer</div>
+    <div class="hero-eyebrow">Jazz Guitar · Boston</div>
     <h1>Mitch<br/><em>Livstone</em></h1>
     <p class="hero-sub">
-      Thoughtful lyricism. Brilliant tone colors. A guitarist who functions as a true orchestrator — making every note matter and every silence breathe.
+      One of the most compelling voices in jazz today — at the height of a long-building arc. <em>Evolution</em> is where it all arrives.
     </p>
     <a href="#album" class="hero-cta">
       Hear <em>Evolution</em> &nbsp;→
@@ -347,28 +377,50 @@
 <section id="about">
   <div class="about-grid">
     <div class="about-photo-col reveal">
-      <img class="about-photo-main" src="images/photo-1.jpg" alt="Mitch Livstone" />
-      <img class="about-photo-accent" src="images/photo-3.jpg" alt="Mitch Livstone performing" />
+      <img class="about-photo-main" src="images/mitch-hero.jpg" alt="Mitch Livstone" />
+      <img class="about-photo-accent" src="images/mitch-with-ehud-band.jpg" alt="Mitch Livstone performing" />
     </div>
     <div>
       <div class="section-label reveal">About</div>
       <h2 class="reveal reveal-delay-1">From<br/>Minsk<br/>to MIT<br/>to Music</h2>
       <blockquote class="about-quote reveal">
         "Really shines on the bandstand."
-        <span>— Jon Garelick, jazz critic</span>
+        <span>— Jon Garelick · The Boston Globe</span>
       </blockquote>
       <p class="reveal reveal-delay-1">
-        Born in Belarus, Mitch showed rare musical gifts before age 8, earning recognition in formal conservatory competitions. His path took an extraordinary detour through academia — earning a Ph.D. in Engineering from MIT — before he returned to music with the full weight of that analytical mind behind his playing.
+        Before most guitarists find their first chord, Mitch Livstone was placing ahead of adult conservatory students in his native Minsk. He went on to earn a Ph.D. in Engineering from MIT — and then made the decision that defined everything: to commit, fully and without compromise, to jazz.
       </p>
       <p class="reveal reveal-delay-2" style="margin-top:1rem;">
-        He studied with two of the most respected guitarists in jazz today: Peter Bernstein and Jonathan Kreisberg. Based in Boston, Mitch leads the ML Jazz Collaborative, bringing a composer's ear and an engineer's precision to music that feels entirely human.
+        He didn't come up quietly. He sought out Peter Bernstein and Jonathan Kreisberg — two of the most celebrated jazz guitarists working today — and studied directly with them. He built his reputation the right way, night after night, on Boston's most important stages. With <em>Evolution</em>, the music has caught up with the reputation.
       </p>
       <div class="about-stats reveal reveal-delay-3">
         <div class="stat"><div class="stat-num">PhD</div><div class="stat-label">MIT Engineering</div></div>
-        <div class="stat"><div class="stat-num">20+</div><div class="stat-label">Years performing</div></div>
-        <div class="stat"><div class="stat-num">12+</div><div class="stat-label">Notable collaborators</div></div>
-        <div class="stat"><div class="stat-num">2025</div><div class="stat-label">Latest album: Evolution</div></div>
+        <div class="stat"><div class="stat-num">Globe</div><div class="stat-label">Boston Globe Acclaimed</div></div>
+        <div class="stat"><div class="stat-num">12+</div><div class="stat-label">Noted Collaborators</div></div>
+        <div class="stat"><div class="stat-num">2026</div><div class="stat-label">Evolution — Out Now</div></div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section id="press">
+  <div class="section-label reveal" style="justify-content:center">Recognition</div>
+  <blockquote class="press-headline reveal reveal-delay-1">
+    "Really shines on the bandstand."
+  </blockquote>
+  <div class="press-attribution reveal reveal-delay-2">— Jon Garelick · The Boston Globe</div>
+  <div class="press-clips">
+    <div class="press-clip reveal">
+      <p class="press-clip-text">"Thoughtful lyricism and brilliant tone colors. A guitarist who functions as a true orchestrator — making every note matter and every silence breathe."</p>
+      <div class="press-clip-source">All About Jazz</div>
+    </div>
+    <div class="press-clip reveal reveal-delay-1">
+      <p class="press-clip-text">"Courts interactivity among his fellow artists, creating stirring melodies from subtle phrases, and transforming trio gigs into headlining events."</p>
+      <div class="press-clip-source">All About Jazz</div>
+    </div>
+    <div class="press-clip reveal reveal-delay-2">
+      <p class="press-clip-text">"A sound most similar to the Pat Metheny group — but with a distinct voice and more structural conviction entirely his own."</p>
+      <div class="press-clip-source">ML Jazz Collaborative</div>
     </div>
   </div>
 </section>
@@ -383,10 +435,10 @@
     <div class="album-info reveal">
       <h3>The ML Jazz Collaborative</h3>
       <p>
-        <em>Evolution</em> is the debut full-length from Mitch Livstone's working trio — a record that earns its title. It captures a band that has grown into a shared language: intricate, interactive, and alive to the moment.
+        <em>Evolution</em> isn't simply a debut — it's a declaration. Four originals and three newly-claimed standards, all moving with the confidence of a band that knows exactly what it wants to say, and exactly how to say it.
       </p>
       <p>
-        With Tim Ray's harmonic depth, Ehud Ettun's lyrical bass, and Gary Fieldman's intuitive pulse, the trio gives Mitch's compositions space to breathe and fire to burn.
+        With Tim Ray's deep harmonic vocabulary, Ehud Ettun's lyrical bass, and Gary Fieldman's intuitive pulse, the ML Jazz Collaborative plays like a single instrument. Released in 2026 to immediate critical attention, <em>Evolution</em> marks Mitch Livstone's arrival on his own terms.
       </p>
     </div>
     <div class="reveal reveal-delay-1">
@@ -409,22 +461,22 @@
 
 <section id="style">
   <div class="section-label reveal">The Playing</div>
-  <h2 class="reveal reveal-delay-1">How he sounds</h2>
+  <h2 class="reveal reveal-delay-1">What sets him apart</h2>
   <div class="style-grid">
     <div class="style-card reveal">
       <div class="style-icon"></div>
       <h4>Lyricism</h4>
-      <p>Every phrase tells a story. Mitch's lines unfold with the inevitability of a well-constructed sentence — nothing wasted, nothing missing.</p>
+      <p>Every phrase carries weight. Mitch's lines unfold with the inevitability of a well-constructed sentence — nothing wasted, nothing missing, nothing arbitrary.</p>
     </div>
     <div class="style-card reveal reveal-delay-1">
       <div class="style-icon"></div>
       <h4>Orchestration</h4>
-      <p>He plays guitar the way a conductor leads an ensemble — shaping dynamics, leaving space, and bringing every band member into the conversation.</p>
+      <p>He plays guitar the way a great conductor leads — shaping dynamics, knowing when to step back, and pulling every voice in the room into the same moment.</p>
     </div>
     <div class="style-card reveal reveal-delay-2">
       <div class="style-icon"></div>
       <h4>Tone</h4>
-      <p>Brilliant, warm, and malleable. His sound is immediately recognizable — rooted in the jazz tradition while entirely his own.</p>
+      <p>Warm, brilliant, immediately recognizable. His sound lives at the intersection of tradition and full originality — and it's unmistakably his.</p>
     </div>
   </div>
 </section>
@@ -433,7 +485,7 @@
   <div class="section-label reveal">Community</div>
   <h2 class="reveal reveal-delay-1">Collaborators</h2>
   <p class="collab-intro reveal reveal-delay-2">
-    Over the years, Mitch has shared the bandstand with some of the finest musicians in jazz — a testament to the trust his peers place in his musicianship and vision.
+    The roster of musicians who trust Mitch on the bandstand speaks for itself. From Boston's finest to internationally recognized names, his collaborators are a testament to the level he operates at.
   </p>
   <div class="collab-grid">
     <div class="collab-name">John Lockwood</div>
@@ -445,41 +497,42 @@
     <div class="collab-name">Ángela Varo</div>
     <div class="collab-name">Ivanna Cuesta Gonzalez</div>
     <div class="collab-name">Phil Grenadier</div>
+    <div class="collab-name">Marco Pignataro</div>
     <div class="collab-name">Tim Ray</div>
     <div class="collab-name">Ehud Ettun</div>
     <div class="collab-name">Gary Fieldman</div>
+    <div class="collab-name">Yoron Israel</div>
   </div>
 </section>
 
 <section id="live">
   <div class="section-label reveal">Live</div>
   <h2 class="reveal reveal-delay-1">On Stage</h2>
-  <p class="reveal reveal-delay-2">Catch the ML Jazz Collaborative at premier venues across the Boston area.</p>
+  <p class="reveal reveal-delay-2">From headline dates at Boston's best rooms to the Arlington Jazz Festival main stage — Mitch and the ML Jazz Collaborative bring the same intensity every night.</p>
   <div class="live-photo-grid reveal">
-    <img class="photo-wide" src="images/live-1.jpg" alt="Mitch Livstone live" />
-    <img src="images/live-3.jpg" alt="ML Jazz Collaborative live" />
-    <img src="images/live-4.jpg" alt="Mitch Livstone performing" />
-    <img src="images/photo-2.jpg" alt="Mitch Livstone on stage" />
-    <img class="photo-wide" src="images/live-10.jpg" alt="ML Jazz Collaborative on stage" />
+    <img src="images/live-arlington-3.jpg" alt="Mitch Livstone Quartet live" />
+    <img src="images/live-arlington-4.jpg" alt="ML Jazz Collaborative" />
+    <img src="images/live-arlington-10.jpg" alt="Mitch Livstone performing" />
   </div>
   <div class="venues-grid">
-    <div class="venue reveal"><div class="venue-name">The Beehive</div><div class="venue-city">Boston, MA</div></div>
-    <div class="venue reveal reveal-delay-1"><div class="venue-name">The Lilypad</div><div class="venue-city">Cambridge, MA</div></div>
-    <div class="venue reveal reveal-delay-2"><div class="venue-name">Mad Monkfish</div><div class="venue-city">Cambridge, MA</div></div>
-    <div class="venue reveal reveal-delay-3"><div class="venue-name">Zuzu</div><div class="venue-city">Cambridge, MA</div></div>
-    <div class="venue reveal"><div class="venue-name">Latina Kitchen</div><div class="venue-city">Boston, MA</div></div>
+    <div class="venue reveal"><div class="venue-name">Arlington Jazz Festival</div><div class="venue-city">Arlington, MA — Headline</div></div>
+    <div class="venue reveal reveal-delay-1"><div class="venue-name">The Beehive</div><div class="venue-city">Boston, MA</div></div>
+    <div class="venue reveal reveal-delay-2"><div class="venue-name">The Lilypad</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal reveal-delay-3"><div class="venue-name">Mad Monkfish</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal"><div class="venue-name">Zuzu</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal reveal-delay-1"><div class="venue-name">Latina Kitchen</div><div class="venue-city">Boston, MA</div></div>
   </div>
 </section>
 
 <section id="contact">
   <div class="section-label reveal" style="justify-content:center">Contact</div>
-  <h2 class="reveal reveal-delay-1">Let's Connect</h2>
-  <p class="reveal reveal-delay-2">For bookings, collaborations, and press inquiries:</p>
+  <h2 class="reveal reveal-delay-1">Book Mitch</h2>
+  <p class="reveal reveal-delay-2">Now booking 2026 and beyond. For performances, collaborations, and press inquiries:</p>
   <a href="mailto:mlivst22@gmail.com" class="contact-email reveal reveal-delay-3">mlivst22@gmail.com</a>
 </section>
 
 <footer>
-  <span>© 2025 Mitch Livstone. All rights reserved.</span>
+  <span>© 2026 Mitch Livstone. All rights reserved.</span>
   <span>ML Jazz Collaborative · Boston, MA</span>
 </footer>
 
