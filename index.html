@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mitch Livstone — Guitarist & Composer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --gold: #C9A84C;
+      --gold-light: #E8C96A;
+      --gold-dim: #8A6E2F;
+      --black: #080808;
+      --dark: #0f0f0f;
+      --surface: #161616;
+      --surface2: #1e1e1e;
+      --text: #e8e4dc;
+      --text-muted: #888880;
+      --text-dim: #555550;
+    }
+
+    html { scroll-behavior: smooth; font-size: 16px; }
+
+    body {
+      background: var(--black);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-weight: 300;
+      line-height: 1.7;
+      overflow-x: hidden;
+    }
+
+    /* NAV */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      padding: 1.5rem 4rem;
+      display: flex; justify-content: space-between; align-items: center;
+      background: linear-gradient(to bottom, rgba(8,8,8,.95), transparent);
+      transition: background .4s;
+    }
+    nav.scrolled { background: rgba(8,8,8,.97); backdrop-filter: blur(12px); }
+    .nav-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem; letter-spacing: .12em;
+      color: var(--gold); text-decoration: none;
+    }
+    .nav-links { display: flex; gap: 2.5rem; list-style: none; }
+    .nav-links a {
+      color: var(--text-muted); text-decoration: none;
+      font-size: .8rem; letter-spacing: .15em; text-transform: uppercase;
+      transition: color .25s;
+    }
+    .nav-links a:hover { color: var(--gold); }
+
+    /* HERO */
+    #hero {
+      position: relative; height: 100vh; min-height: 700px;
+      display: flex; align-items: flex-end;
+      padding: 0 4rem 7rem;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse 80% 60% at 65% 40%, #1a1408 0%, #080808 70%);
+    }
+    .vinyl {
+      position: absolute;
+      right: -6vw; top: 50%; transform: translateY(-50%);
+      width: 65vw; max-width: 750px; height: 65vw; max-height: 750px;
+      animation: spin 30s linear infinite;
+    }
+    @keyframes spin { to { transform: translateY(-50%) rotate(360deg); } }
+    .hero-content { position: relative; z-index: 2; max-width: 640px; }
+    .hero-eyebrow {
+      font-size: .72rem; letter-spacing: .3em; text-transform: uppercase;
+      color: var(--gold); margin-bottom: 1.5rem;
+      display: flex; align-items: center; gap: .8rem;
+    }
+    .hero-eyebrow::before { content: ''; display: block; width: 2.5rem; height: 1px; background: var(--gold); }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(3.5rem, 8vw, 7.5rem);
+      font-weight: 900; line-height: 1;
+      letter-spacing: -.02em; color: var(--text);
+      margin-bottom: 1.5rem;
+    }
+    h1 em { font-style: italic; color: var(--gold); animation: glow-pulse 4s ease-in-out infinite; }
+    @keyframes glow-pulse {
+      0%,100% { text-shadow: 0 0 40px rgba(201,168,76,0); }
+      50% { text-shadow: 0 0 80px rgba(201,168,76,.25); }
+    }
+    .hero-sub {
+      font-size: 1rem; font-weight: 300; color: var(--text-muted);
+      max-width: 420px; margin-bottom: 2.5rem; line-height: 1.8;
+    }
+    .hero-cta {
+      display: inline-flex; align-items: center; gap: .8rem;
+      text-decoration: none; color: var(--text);
+      font-size: .78rem; letter-spacing: .2em; text-transform: uppercase;
+      border-bottom: 1px solid var(--gold); padding-bottom: .3rem;
+      transition: color .25s, gap .25s;
+    }
+    .hero-cta:hover { color: var(--gold); gap: 1.2rem; }
+    .scroll-line {
+      position: absolute; bottom: 2.5rem; left: 50%; transform: translateX(-50%);
+      display: flex; flex-direction: column; align-items: center; gap: .5rem;
+      color: var(--text-dim); font-size: .65rem; letter-spacing: .2em;
+    }
+    .scroll-line::after {
+      content: ''; width: 1px; height: 3rem;
+      background: linear-gradient(to bottom, var(--gold-dim), transparent);
+      animation: pulse-line 2s ease-in-out infinite;
+    }
+    @keyframes pulse-line { 0%,100%{opacity:.4} 50%{opacity:1} }
+
+    /* SECTIONS */
+    section { padding: 7rem 4rem; }
+    .section-label {
+      font-size: .68rem; letter-spacing: .3em; text-transform: uppercase;
+      color: var(--gold); margin-bottom: 1rem;
+      display: flex; align-items: center; gap: .8rem;
+    }
+    .section-label::before { content: ''; display: block; width: 2rem; height: 1px; background: var(--gold); }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.2rem, 5vw, 3.8rem);
+      font-weight: 700; line-height: 1.1; letter-spacing: -.01em;
+      margin-bottom: 1.5rem;
+    }
+    p { color: var(--text-muted); max-width: 65ch; }
+
+    /* ABOUT */
+    #about { background: var(--dark); }
+    .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6rem; align-items: center; }
+    .about-quote {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.3rem, 2.5vw, 1.8rem); font-style: italic;
+      color: var(--text); line-height: 1.5;
+      border-left: 2px solid var(--gold); padding-left: 2rem; margin-bottom: 2rem;
+    }
+    .about-quote span { color: var(--gold-dim); font-size: .8em; display: block; margin-top: .8rem; font-style: normal; font-family: 'Inter', sans-serif; letter-spacing: .1em; }
+    .about-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 3rem; }
+    .stat { border-top: 1px solid var(--surface2); padding-top: 1.2rem; }
+    .stat-num { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--gold); font-weight: 700; }
+    .stat-label { font-size: .72rem; letter-spacing: .15em; text-transform: uppercase; color: var(--text-muted); margin-top: .2rem; }
+
+    /* ALBUM */
+    #album { background: var(--black); }
+    .album-layout { display: grid; grid-template-columns: 380px 1fr; gap: 5rem; align-items: center; margin-top: 3rem; }
+    .album-cover {
+      aspect-ratio: 1; background: var(--surface); border-radius: 4px;
+      position: relative; overflow: hidden;
+      box-shadow: 0 40px 80px rgba(0,0,0,.6), 0 0 0 1px rgba(201,168,76,.15);
+    }
+    .album-cover-art {
+      width: 100%; height: 100%;
+      background: linear-gradient(135deg, #0d0a04 0%, #1a1205 30%, #0a0806 60%, #12100a 100%);
+      display: flex; flex-direction: column; justify-content: flex-end; padding: 2rem;
+    }
+    .cover-wave { position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; align-items: center; justify-content: center; opacity: .2; }
+    .cover-title { position: relative; z-index: 1; font-family: 'Playfair Display', serif; font-size: 1.8rem; font-style: italic; color: var(--gold-light); }
+    .cover-sub { font-size: .7rem; letter-spacing: .25em; text-transform: uppercase; color: var(--text-muted); margin-top: .3rem; }
+    .album-info h3 { font-family: 'Playfair Display', serif; font-size: 2.2rem; margin-bottom: 1rem; color: var(--text); }
+    .album-info p { margin-bottom: 1rem; }
+    .trio-list { list-style: none; border-top: 1px solid var(--surface2); padding-top: 1.5rem; margin-top: 1.5rem; }
+    .trio-list li { display: flex; justify-content: space-between; padding: .7rem 0; border-bottom: 1px solid var(--surface2); font-size: .9rem; }
+    .trio-list .role { color: var(--text-muted); font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; }
+    .stream-links { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2rem; }
+    .stream-btn {
+      display: inline-flex; align-items: center; gap: .5rem;
+      padding: .6rem 1.2rem; border: 1px solid var(--surface2); border-radius: 2px;
+      font-size: .72rem; letter-spacing: .15em; text-transform: uppercase;
+      color: var(--text-muted); text-decoration: none; transition: border-color .25s, color .25s;
+    }
+    .stream-btn:hover { border-color: var(--gold); color: var(--gold); }
+
+    /* STYLE CARDS */
+    #style { background: var(--surface); }
+    .style-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; margin-top: 3rem; }
+    .style-card { background: var(--dark); padding: 2.5rem 2rem; transition: background .25s; }
+    .style-card:hover { background: var(--surface2); }
+    .style-icon { width: 2.5rem; height: 2px; background: var(--gold); margin-bottom: 1.5rem; }
+    .style-card h4 { font-family: 'Playfair Display', serif; font-size: 1.2rem; margin-bottom: .8rem; color: var(--text); }
+    .style-card p { font-size: .88rem; max-width: 100%; }
+
+    /* COLLABORATORS */
+    #collab { background: var(--black); }
+    .collab-intro { max-width: 55ch; margin-bottom: 3rem; }
+    .collab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1px; }
+    .collab-name { padding: 1.5rem 1.8rem; background: var(--surface); font-size: .88rem; color: var(--text-muted); transition: background .2s, color .2s; }
+    .collab-name:hover { background: var(--surface2); color: var(--gold); }
+
+    /* LIVE */
+    #live { background: var(--dark); }
+    .venues-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 2rem; margin-top: 3rem; }
+    .venue { border-top: 1px solid var(--surface2); padding-top: 1.2rem; }
+    .venue-name { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--text); margin-bottom: .3rem; }
+    .venue-city { font-size: .72rem; letter-spacing: .15em; text-transform: uppercase; color: var(--gold-dim); }
+
+    /* CONTACT */
+    #contact { background: var(--black); text-align: center; padding: 8rem 4rem; }
+    #contact h2 { margin-bottom: 1rem; }
+    #contact p { margin: 0 auto 2.5rem; }
+    .contact-email {
+      display: inline-block; font-family: 'Playfair Display', serif;
+      font-size: clamp(1.2rem, 3vw, 2rem); color: var(--gold);
+      text-decoration: none; border-bottom: 1px solid var(--gold-dim);
+      padding-bottom: .3rem; transition: color .25s, border-color .25s;
+    }
+    .contact-email:hover { color: var(--gold-light); border-color: var(--gold-light); }
+
+    /* FOOTER */
+    footer {
+      background: var(--black); border-top: 1px solid var(--surface);
+      padding: 2rem 4rem; display: flex; justify-content: space-between; align-items: center;
+      font-size: .72rem; letter-spacing: .1em; color: var(--text-dim);
+    }
+    footer a { color: var(--text-dim); text-decoration: none; transition: color .2s; }
+    footer a:hover { color: var(--gold); }
+
+    /* REVEAL ANIMATIONS */
+    .reveal { opacity: 0; transform: translateY(30px); transition: opacity .8s ease, transform .8s ease; }
+    .reveal.visible { opacity: 1; transform: none; }
+    .reveal-delay-1 { transition-delay: .1s; }
+    .reveal-delay-2 { transition-delay: .2s; }
+    .reveal-delay-3 { transition-delay: .35s; }
+
+    /* RESPONSIVE */
+    @media (max-width: 900px) {
+      nav { padding: 1.2rem 2rem; }
+      .nav-links { display: none; }
+      section { padding: 5rem 2rem; }
+      #hero { padding: 0 2rem 5rem; }
+      .about-grid, .album-layout { grid-template-columns: 1fr; gap: 3rem; }
+      .style-grid { grid-template-columns: 1fr; }
+      .album-cover { max-width: 320px; }
+      footer { flex-direction: column; gap: 1rem; text-align: center; }
+      .vinyl { right: -20vw; width: 90vw; height: 90vw; opacity: .4; }
+    }
+  </style>
+</head>
+<body>
+
+<nav id="navbar">
+  <a href="#hero" class="nav-logo">ML</a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#album">Music</a></li>
+    <li><a href="#collab">Collaborators</a></li>
+    <li><a href="#live">Live</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="hero">
+  <div class="hero-bg"></div>
+
+  <div class="vinyl" aria-hidden="true">
+    <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="vg" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#1a1205"/>
+          <stop offset="8%" stop-color="#0d0d0d"/>
+          <stop offset="9%" stop-color="#C9A84C" stop-opacity=".4"/>
+          <stop offset="10%" stop-color="#111"/>
+          <stop offset="48%" stop-color="#0a0a0a"/>
+          <stop offset="49%" stop-color="#C9A84C" stop-opacity=".2"/>
+          <stop offset="50%" stop-color="#0f0f0f"/>
+          <stop offset="100%" stop-color="#080808"/>
+        </radialGradient>
+      </defs>
+      <circle cx="250" cy="250" r="248" fill="url(#vg)" opacity=".4"/>
+      <circle cx="250" cy="250" r="200" fill="none" stroke="#C9A84C" stroke-width=".5" opacity=".1"/>
+      <circle cx="250" cy="250" r="170" fill="none" stroke="#C9A84C" stroke-width=".5" opacity=".08"/>
+      <circle cx="250" cy="250" r="140" fill="none" stroke="#C9A84C" stroke-width=".5" opacity=".07"/>
+      <circle cx="250" cy="250" r="110" fill="none" stroke="#C9A84C" stroke-width=".5" opacity=".06"/>
+      <circle cx="250" cy="250" r="80" fill="none" stroke="#C9A84C" stroke-width=".5" opacity=".05"/>
+      <circle cx="250" cy="250" r="50" fill="none" stroke="#C9A84C" stroke-width="1" opacity=".15"/>
+      <circle cx="250" cy="250" r="30" fill="#C9A84C" opacity=".12"/>
+      <circle cx="250" cy="250" r="8" fill="#C9A84C" opacity=".35"/>
+      <circle cx="250" cy="250" r="3" fill="#C9A84C" opacity=".7"/>
+    </svg>
+  </div>
+
+  <div class="hero-content">
+    <div class="hero-eyebrow">Guitarist &amp; Composer</div>
+    <h1>Mitch<br/><em>Livstone</em></h1>
+    <p class="hero-sub">
+      Thoughtful lyricism. Brilliant tone colors. A guitarist who functions as a true orchestrator — making every note matter and every silence breathe.
+    </p>
+    <a href="#album" class="hero-cta">
+      Hear <em>Evolution</em> &nbsp;→
+    </a>
+  </div>
+
+  <div class="scroll-line">scroll</div>
+</section>
+
+<section id="about">
+  <div class="about-grid">
+    <div>
+      <div class="section-label reveal">About</div>
+      <h2 class="reveal reveal-delay-1">From<br/>Minsk<br/>to MIT<br/>to Music</h2>
+    </div>
+    <div>
+      <blockquote class="about-quote reveal">
+        "Really shines on the bandstand."
+        <span>— Jon Garelick, jazz critic</span>
+      </blockquote>
+      <p class="reveal reveal-delay-1">
+        Born in Belarus, Mitch showed rare musical gifts before age 8, earning recognition in formal conservatory competitions. His path took an extraordinary detour through academia — earning a Ph.D. in Engineering from MIT — before he returned to music with the full weight of that analytical mind behind his playing.
+      </p>
+      <p class="reveal reveal-delay-2" style="margin-top:1rem;">
+        He studied with two of the most respected guitarists in jazz today: Peter Bernstein and Jonathan Kreisberg. Based in Boston, Mitch leads the ML Jazz Collaborative, bringing a composer's ear and an engineer's precision to music that feels entirely human.
+      </p>
+      <div class="about-stats reveal reveal-delay-3">
+        <div class="stat"><div class="stat-num">PhD</div><div class="stat-label">MIT Engineering</div></div>
+        <div class="stat"><div class="stat-num">20+</div><div class="stat-label">Years performing</div></div>
+        <div class="stat"><div class="stat-num">12+</div><div class="stat-label">Notable collaborators</div></div>
+        <div class="stat"><div class="stat-num">2025</div><div class="stat-label">Latest album: Evolution</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="album">
+  <div class="section-label reveal">Music</div>
+  <h2 class="reveal reveal-delay-1">Evolution</h2>
+  <div class="album-layout">
+    <div class="album-cover reveal">
+      <div class="album-cover-art">
+        <div class="cover-wave" aria-hidden="true">
+          <svg width="100%" height="100%" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+            <g stroke="#C9A84C" stroke-width="1.5" fill="none">
+              <path d="M0 200 Q100 80 200 200 T400 200" opacity=".5"/>
+              <path d="M0 200 Q100 120 200 200 T400 200" opacity=".3"/>
+              <path d="M0 200 Q100 160 200 200 T400 200" opacity=".2"/>
+              <circle cx="200" cy="200" r="80" opacity=".1"/>
+              <circle cx="200" cy="200" r="130" opacity=".06"/>
+              <circle cx="200" cy="200" r="180" opacity=".04"/>
+            </g>
+          </svg>
+        </div>
+        <div class="cover-title">Evolution</div>
+        <div class="cover-sub">ML Jazz Collaborative · 2025</div>
+      </div>
+    </div>
+    <div class="album-info reveal reveal-delay-2">
+      <h3>The ML Jazz Collaborative</h3>
+      <p>
+        <em>Evolution</em> is the debut full-length from Mitch Livstone's working trio — a record that earns its title. It captures a band that has grown into a shared language: intricate, interactive, and alive to the moment.
+      </p>
+      <p>
+        With Tim Ray's harmonic depth, Ehud Ettun's lyrical bass, and Gary Fieldman's intuitive pulse, the trio gives Mitch's compositions space to breathe and fire to burn.
+      </p>
+      <ul class="trio-list">
+        <li><span>Mitch Livstone</span><span class="role">Guitar</span></li>
+        <li><span>Tim Ray</span><span class="role">Piano</span></li>
+        <li><span>Ehud Ettun</span><span class="role">Bass</span></li>
+        <li><span>Gary Fieldman</span><span class="role">Drums</span></li>
+      </ul>
+      <div class="stream-links">
+        <a class="stream-btn" href="https://open.spotify.com/search/Mitch%20Livstone" target="_blank" rel="noopener">Spotify</a>
+        <a class="stream-btn" href="https://music.apple.com/search?term=Mitch+Livstone" target="_blank" rel="noopener">Apple Music</a>
+        <a class="stream-btn" href="https://music.amazon.com/search/Mitch+Livstone" target="_blank" rel="noopener">Amazon Music</a>
+        <a class="stream-btn" href="https://www.youtube.com/results?search_query=Mitch+Livstone" target="_blank" rel="noopener">YouTube</a>
+        <a class="stream-btn" href="https://www.pandora.com/search/Mitch%20Livstone/all" target="_blank" rel="noopener">Pandora</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="style">
+  <div class="section-label reveal">The Playing</div>
+  <h2 class="reveal reveal-delay-1">How he sounds</h2>
+  <div class="style-grid">
+    <div class="style-card reveal">
+      <div class="style-icon"></div>
+      <h4>Lyricism</h4>
+      <p>Every phrase tells a story. Mitch's lines unfold with the inevitability of a well-constructed sentence — nothing wasted, nothing missing.</p>
+    </div>
+    <div class="style-card reveal reveal-delay-1">
+      <div class="style-icon"></div>
+      <h4>Orchestration</h4>
+      <p>He plays guitar the way a conductor leads an ensemble — shaping dynamics, leaving space, and bringing every band member into the conversation.</p>
+    </div>
+    <div class="style-card reveal reveal-delay-2">
+      <div class="style-icon"></div>
+      <h4>Tone</h4>
+      <p>Brilliant, warm, and malleable. His sound is immediately recognizable — rooted in the jazz tradition while entirely his own.</p>
+    </div>
+  </div>
+</section>
+
+<section id="collab">
+  <div class="section-label reveal">Community</div>
+  <h2 class="reveal reveal-delay-1">Collaborators</h2>
+  <p class="collab-intro reveal reveal-delay-2">
+    Over the years, Mitch has shared the bandstand with some of the finest musicians in jazz — a testament to the trust his peers place in his musicianship and vision.
+  </p>
+  <div class="collab-grid">
+    <div class="collab-name">John Lockwood</div>
+    <div class="collab-name">Bruce Gertz</div>
+    <div class="collab-name">Oscar Stagnaro</div>
+    <div class="collab-name">Mark Walker</div>
+    <div class="collab-name">Steve Langone</div>
+    <div class="collab-name">Bertram Lehman</div>
+    <div class="collab-name">Ángela Varo</div>
+    <div class="collab-name">Ivanna Cuesta Gonzalez</div>
+    <div class="collab-name">Phil Grenadier</div>
+    <div class="collab-name">Tim Ray</div>
+    <div class="collab-name">Ehud Ettun</div>
+    <div class="collab-name">Gary Fieldman</div>
+  </div>
+</section>
+
+<section id="live">
+  <div class="section-label reveal">Live</div>
+  <h2 class="reveal reveal-delay-1">On Stage</h2>
+  <p class="reveal reveal-delay-2">Catch the ML Jazz Collaborative at premier venues across the Boston area.</p>
+  <div class="venues-grid">
+    <div class="venue reveal"><div class="venue-name">The Beehive</div><div class="venue-city">Boston, MA</div></div>
+    <div class="venue reveal reveal-delay-1"><div class="venue-name">The Lilypad</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal reveal-delay-2"><div class="venue-name">Mad Monkfish</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal reveal-delay-3"><div class="venue-name">Zuzu</div><div class="venue-city">Cambridge, MA</div></div>
+    <div class="venue reveal"><div class="venue-name">Latina Kitchen</div><div class="venue-city">Boston, MA</div></div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="section-label reveal" style="justify-content:center">Contact</div>
+  <h2 class="reveal reveal-delay-1">Let's Connect</h2>
+  <p class="reveal reveal-delay-2">For bookings, collaborations, and press inquiries:</p>
+  <a href="mailto:mlivst22@gmail.com" class="contact-email reveal reveal-delay-3">mlivst22@gmail.com</a>
+</section>
+
+<footer>
+  <span>© 2025 Mitch Livstone. All rights reserved.</span>
+  <span>ML Jazz Collaborative · Boston, MA</span>
+</footer>
+
+<script>
+  const navbar = document.getElementById('navbar');
+  window.addEventListener('scroll', () => {
+    navbar.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+    });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+</script>
+</body>
+</html>
