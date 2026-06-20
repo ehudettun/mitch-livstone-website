@@ -159,21 +159,19 @@
 
     /* ALBUM */
     #album { background: var(--black); }
-    .album-layout { display: grid; grid-template-columns: 380px 1fr; gap: 5rem; align-items: center; margin-top: 3rem; }
-    .album-cover {
-      aspect-ratio: 1; background: var(--surface); border-radius: 4px;
-      position: relative; overflow: hidden;
-      box-shadow: 0 40px 80px rgba(0,0,0,.6), 0 0 0 1px rgba(201,168,76,.15);
+    .album-cover-banner {
+      width: 100%; margin-top: 2.5rem;
+      border-radius: 4px; overflow: hidden;
+      box-shadow: 0 30px 60px rgba(0,0,0,.6), 0 0 0 1px rgba(201,168,76,.15);
     }
-    .album-cover-art {
-      width: 100%; height: 100%;
-      background: linear-gradient(135deg, #0d0a04 0%, #1a1205 30%, #0a0806 60%, #12100a 100%);
-      display: flex; flex-direction: column; justify-content: flex-end; padding: 2rem;
+    .album-cover-banner img {
+      width: 100%; height: auto; display: block;
     }
-    .cover-wave { position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; align-items: center; justify-content: center; opacity: .2; }
-    .cover-title { position: relative; z-index: 1; font-family: 'Playfair Display', serif; font-size: 1.8rem; font-style: italic; color: var(--gold-light); }
-    .cover-sub { font-size: .7rem; letter-spacing: .25em; text-transform: uppercase; color: var(--text-muted); margin-top: .3rem; }
-    .album-info h3 { font-family: 'Playfair Display', serif; font-size: 2.2rem; margin-bottom: 1rem; color: var(--text); }
+    .album-info-row {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 4rem; margin-top: 3rem; align-items: start;
+    }
+    .album-info h3 { font-family: 'Playfair Display', serif; font-size: 2rem; margin-bottom: 1rem; color: var(--text); }
     .album-info p { margin-bottom: 1rem; }
     .trio-list { list-style: none; border-top: 1px solid var(--surface2); padding-top: 1.5rem; margin-top: 1.5rem; }
     .trio-list li { display: flex; justify-content: space-between; padding: .7rem 0; border-bottom: 1px solid var(--surface2); font-size: .9rem; }
@@ -244,7 +242,7 @@
       .nav-links { display: none; }
       section { padding: 5rem 2rem; }
       #hero { padding: 0 2rem 5rem; }
-      .about-grid, .album-layout { grid-template-columns: 1fr; gap: 3rem; }
+      .about-grid, .album-info-row { grid-template-columns: 1fr; gap: 2rem; }
       .style-grid { grid-template-columns: 1fr; }
       .album-cover { max-width: 320px; }
       footer { flex-direction: column; gap: 1rem; text-align: center; }
@@ -339,11 +337,11 @@
 <section id="album">
   <div class="section-label reveal">Music</div>
   <h2 class="reveal reveal-delay-1">Evolution</h2>
-  <div class="album-layout">
-    <div class="album-cover reveal">
-      <img src="images/mitch-hero.jpg" alt="Evolution – ML Jazz Collaborative" style="width:100%;height:100%;object-fit:contain;display:block;background:#0f0f0f;" />
-    </div>
-    <div class="album-info reveal reveal-delay-2">
+  <div class="album-cover-banner reveal">
+    <img src="images/mitch-hero.jpg" alt="Evolution – ML Jazz Collaborative" />
+  </div>
+  <div class="album-info-row">
+    <div class="album-info reveal">
       <h3>The ML Jazz Collaborative</h3>
       <p>
         <em>Evolution</em> is the debut full-length from Mitch Livstone's working trio — a record that earns its title. It captures a band that has grown into a shared language: intricate, interactive, and alive to the moment.
@@ -351,6 +349,8 @@
       <p>
         With Tim Ray's harmonic depth, Ehud Ettun's lyrical bass, and Gary Fieldman's intuitive pulse, the trio gives Mitch's compositions space to breathe and fire to burn.
       </p>
+    </div>
+    <div class="reveal reveal-delay-1">
       <ul class="trio-list">
         <li><span>Mitch Livstone</span><span class="role">Guitar</span></li>
         <li><span>Tim Ray</span><span class="role">Piano</span></li>
