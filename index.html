@@ -66,7 +66,7 @@
     }
     .hero-bg {
       position: absolute; inset: 0;
-      background-image: url('images/mitch-hero.jpg');
+      background-image: url('images/mitch-headshot.jpg');
       background-size: cover;
       background-position: center top;
       filter: brightness(.22) saturate(.5);
@@ -147,8 +147,8 @@
     .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: start; }
     .about-photo-col { position: relative; }
     .about-photo-main {
-      width: 100%; aspect-ratio: 4/3;
-      object-fit: cover; object-position: center;
+      width: 100%; aspect-ratio: 3/4;
+      object-fit: cover; object-position: center top;
       border-radius: 2px;
       box-shadow: 0 20px 60px rgba(0,0,0,.5);
     }
@@ -389,7 +389,7 @@
 <section id="about">
   <div class="about-grid">
     <div class="about-photo-col reveal">
-      <img class="about-photo-main" src="images/mitch-hero.jpg" alt="Mitch Livstone" />
+      <img class="about-photo-main" src="images/mitch-headshot.jpg" alt="Mitch Livstone" />
     </div>
     <div>
       <div class="section-label reveal">About</div>
