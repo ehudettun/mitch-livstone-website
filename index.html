@@ -145,7 +145,7 @@
     /* ABOUT */
     #about { background: var(--dark); }
     .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: start; }
-    .about-photo-col { position: relative; padding-bottom: 3rem; }
+    .about-photo-col { position: relative; }
     .about-photo-main {
       width: 100%; aspect-ratio: 4/3;
       object-fit: cover; object-position: center;
@@ -266,6 +266,18 @@
       transition: filter .4s;
     }
     .live-photo-grid img:hover { filter: brightness(1.1); }
+    .live-photo-single {
+      margin-top: 3rem; margin-bottom: 3rem;
+      border-radius: 2px; overflow: hidden;
+      box-shadow: 0 20px 60px rgba(0,0,0,.5);
+    }
+    .live-photo-single img {
+      width: 100%; max-height: 560px;
+      object-fit: cover; object-position: center;
+      display: block;
+      transition: filter .4s;
+    }
+    .live-photo-single img:hover { filter: brightness(1.05); }
     .venues-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 2rem; margin-top: 3rem; }
     .venue { border-top: 1px solid var(--surface2); padding-top: 1.2rem; }
     .venue-name { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--text); margin-bottom: .3rem; }
@@ -378,7 +390,6 @@
   <div class="about-grid">
     <div class="about-photo-col reveal">
       <img class="about-photo-main" src="images/mitch-hero.jpg" alt="Mitch Livstone" />
-      <img class="about-photo-accent" src="images/mitch-with-ehud-band.jpg" alt="Mitch Livstone performing" />
     </div>
     <div>
       <div class="section-label reveal">About</div>
@@ -509,9 +520,7 @@
   <div class="section-label reveal">Live</div>
   <h2 class="reveal reveal-delay-1">On Stage</h2>
   <p class="reveal reveal-delay-2">From headline dates at Boston's best rooms to the Arlington Jazz Festival main stage — Mitch and the ML Jazz Collaborative bring the same intensity every night.</p>
-  <div class="live-photo-grid reveal">
-    <img src="images/live-3.jpg" alt="Mitch Livstone Quartet live" />
-    <img src="images/live-4.jpg" alt="ML Jazz Collaborative" />
+  <div class="live-photo-single reveal">
     <img src="images/live-10.jpg" alt="Mitch Livstone performing" />
   </div>
   <div class="venues-grid">
